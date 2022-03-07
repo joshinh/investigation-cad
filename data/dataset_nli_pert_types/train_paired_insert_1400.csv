@@ -1,0 +1,1401 @@
+pairID,sentence1,sentence2,gold_label
+5,In a martial arts demonstration a man with two swords faces a woman with a Chinese spear.,The woman is watching.,neutral
+7,In a martial arts demonstration a man with two swords faces a woman with a Chinese spear while the men watch.,The woman is watching.,contradiction
+11,A woman wearing a green shirt stands on the railroad tracks.,A railroad employee stands on the train tracks.,neutral
+13,A woman wearing a green shirt stands on the railroad tracks and waves on the railroad employee in the booth. ,A railroad employee stands on the train tracks.,contradiction
+25,A woman in a red polka-dot dress sings into a mic.,A woman is wearing a dress.,entailment
+27,A tall woman in a red polka-dot dress sings into a mic.,A woman is wearing a dress.,neutral
+38,Three children are playing together in some water.,Three children are playing in water.,entailment
+35,Three children are playing together in some water.,Three smart children are playing in water.,neutral
+87,An older man and woman sitting on a cement bench with frowns on their faces.,The man and woman are arguing about money,neutral
+88,An older man and woman sitting on a cement bench with frowns on their faces are arguing about their kids.,The man and woman are arguing about money,contradiction
+96,Several man in black tops play the guitar.,People are playing music.,entailment
+97,Several man in black tops play the guitar.,People are playing rock music.,neutral
+100,A group of young adults come together to perform song complete with drums and a guitar.,A band is on stage performing.,neutral
+101,A group of young adults come together to perform song complete with drums and a guitar.,A band is on stage performing without any instruments.,contradiction
+133,A man with a visor and blue top has thrown a Frisbee off into the distance.,A man is throwing a frisbee.,entailment
+132,A man with a visor and blue top has thrown a Frisbee off into the distance.,A man is throwing a frisbee to his friend.,neutral
+140,Children ride a balloon ride in an amusement park.,Kids are on amusement park rides,entailment
+143,Children ride a balloon ride in an amusement park.,Kids are on expensive amusement park rides,neutral
+154,A wolf moves over the snow.,The wolf is old.,neutral
+151,A baby wolf moves over the snow.,The wolf is old.,contradiction
+172,People on stilts in a parade.,Some people are performing in a parade.,entailment
+171,People on stilts in a parade.,Some fat people are performing in a parade.,neutral
+175,"A middle-aged couple is dancing, the man is wearing a white dress shirt with the sleeves rolled up and the woman is wearing a black dress.",A well-dressed couple is dancing together.,entailment
+178,"A middle-aged couple is dancing, the man is wearing a white dress shirt with the sleeves rolled up and the woman is wearing a black dress.",A well-dressed couple is dancing together celebrating their anniversary.,neutral
+180,Bearded man playing the bass.,A man with a mustache is playing the piano.,contradiction
+181,Bearded man playing the bass in a band.,A man with a mustache is playing the piano.,neutral
+203,two men each wearing jackets leaning on a railing near a snowy road,Two men stand outdoors.,entailment
+204,two men each wearing jackets leaning on a railing near a snowy road,Two men wearing hats stand outdoors.,neutral
+205,"A choir consisting of children dressed in blue, younger members in red, and older in black, is performing on a 2nd floor overlook.",A children's choir sings.,entailment
+206,"A choir consisting of children dressed in blue, younger members in red, and older in black, is performing on a 2nd floor overlook.",A children's choir sings Christmas songs.,neutral
+224,"A young man on rollerskates, in white shorts, part of a crowd watching a black man in a red shirt.",A young man is using the roller skates his grandfather gave him.,neutral
+222,"A young man on rollerskates gifted by his girlfriend, in white shorts, part of a crowd watching a black man in a red shirt.",A young man is using the roller skates his grandfather gave him.,contradiction
+233,A person rides a skateboard off of a wooden bench.,a person riding a bike,contradiction
+230,A person rides a skateboard off of a wooden bench.,a person riding a wooden skateboard,neutral
+252,A man is jumping off the grass while holding onto a giant white balloon.,The man leapt to safety without letting go of his balloon.,neutral
+250,A man is jumping off the grass into the fire while holding onto a giant white balloon.,The man leapt to safety without letting go of his balloon.,contradiction
+264,A man walks through a pathway.,A man walks through the pathway,entailment
+262,A man walks through a pathway.,A man walks through the narrow pathway.,neutral
+278,"A boy stands outside of ""TheFaceShop"" looking at an electronic device, while a man leans against the corner of the store.",A boy is window shopping.,entailment
+275,"A boy stands outside of ""TheFaceShop"" looking at an electronic device, while a man leans against the corner of the store.",A boy is window shopping for an Ipad.,neutral
+283,Two women in a whirlpool with towels on the heads laughing.,Two sad women in a whirlpool with towels on the heads laughing.,neutral
+281,Two women in a whirlpool with towels on the heads laughing despite their sadness.,Two sad women in a whirlpool with towels on the heads laughing.,entailment
+319,The opposing basketball player is making a hook shot over the defender.,The opposing basketball player is attempting to score,entailment
+316,The opposing tall basketball player is making a hook shot over the defender.,The opposing basketball player is attempting to score,neutral
+322,Men at opposite ends of the street waiting to cross.,there are some people outside in this picture,entailment
+321,Men at opposite ends of the street waiting to cross.,there are some people outside in this picture at the crosswalk.,neutral
+325,Two men in safety hats and masks sorting through soiled rags at a factory.,Two sad men in safety hats and masks sorting through soiled rags at a factory.,neutral
+329,Two crying men in safety hats and masks sorting through soiled rags at a factory.,Two sad men in safety hats and masks sorting through soiled rags at a factory.,entailment
+331,A woman in a white tank top brushes her hair from her eyes as she speaks with the man in the gray shirt.,Two people are having a conversation.,entailment
+334,A woman in a white tank top brushes her hair from her eyes as she speaks with the man in the gray shirt.,Two people are having a fun conversation.,neutral
+335,a woman cleaning pots in a body of water.,boy washing fruit in a stream,contradiction
+339,a woman cleaning pots in a body of water as her son washes produce nearby.,boy washing fruit in a stream,neutral
+355,Man in plaid shirt scaling rocks.,A woman is skiing.,contradiction
+356,Man in plaid shirt scaling snowy rocks by a woman using poles.,A woman is skiing.,neutral
+384,"A person wearing a blue helmet, a t-shirt, and blue jean shorts is outside on a skateboard.","A person has on a helmet, a shirt, and is outside using a skateboard.",entailment
+381,"A person wearing a blue helmet, a t-shirt, and blue jean shorts is outside on a skateboard.","A person has on a helmet, a yellow shirt, and is outside using a skateboard.",neutral
+415,A man in a black shirt plays the guitar surrounded by drinks.,The man is skilled at playing,neutral
+418,A man in a black shirt plays the guitar horribly surrounded by drinks. ,The man is skilled at playing,contradiction
+420,A woman scantily dressed in a tribal green and blue costume dances in a parade while onlookers watch.,A woman is dancing in a parade.,entailment
+423,A woman scantily dressed in a tribal green and blue costume dances in a parade while onlookers watch.,A woman is dancing in a holiday parade.,neutral
+428,"A rugby game being played, one man in a green jersey is being lifted up by his teammates with the ball, while a competitor in a red jersey is similarly lifted to tackle him.",Boys are playing videogames,contradiction
+426,"A rugby game being played, one man in a green jersey is being lifted up by his teammates with the ball, while a competitor in a red jersey is similarly lifted to tackle him.",Boys are playing an unofficiated match,neutral
+435,A shaven head young man wears headphones and works with a mixing board.,The man is listening to metal,neutral
+437,A shaven head young man wears headphones with metal music playing and works with a mixing board.,The man is listening to metal,entailment
+441,A black and white dog runs on soft green grass.,An animal is outside running,entailment
+440,A black and white dog runs on soft green grass.,An animal is outside running to his owner.,neutral
+458,A woman in a brown sweater is sewing on her machine.,The woman is wearing a sweater.,entailment
+459,A woman in a brown sweater is sewing on her machine.,The woman is wearing a cashmere sweater.,neutral
+460,"A woman in a black dress, stands alone, looking out to a city.","A woman in a black dress, stands alone, looking out to a big city.",neutral
+463,"A woman in a black dress, stands alone, looking out the window to a big city.","A woman in a black dress, stands alone, looking out to a big city.",entailment
+512,"A little girl with a red hood and shirt is sitting with legs sprawled on a rock, her mouth open.",the kid lounges outside,entailment
+510,"A little girl with a red hood and shirt is sitting with legs sprawled on a rock, her mouth open.",the kid lounges outside on a chair,contradiction
+536,A man playing guitar in a purple shirt.,man plays guitar,entailment
+539,A man playing guitar in a purple shirt.,man plays electric guitar,neutral
+554,A man sitting on a boat with a flag and the sunset in the background.,A girl swings in the park.,contradiction
+552,A girl is at the park looking at a picture of a man sitting on a boat with a flag and the sunset in the background. ,A girl swings in the park.,neutral
+563,two people waiting on the corner.,Two people are waiting to cross the street.,neutral
+561,two people waiting on the corner to cross the street.,Two people are waiting to cross the street.,entailment
+575,"A boy wearing shorts, crocs, and a white shirt plays with a yo-yo while another boy looks at his yo-yo in the background.",He is happy,neutral
+577,"A boy wearing shorts, crocs, and a white shirt plays happily with a yo-yo while another boy looks at his yo-yo in the background.",He is happy,entailment
+590,A guy sitting on a stool in a light tan shirt and darker tan shorts with glasses around his neck working on a project.,The man is working on a laptop computer.,neutral
+593,A guy sitting on a stool in a light tan shirt and darker tan shorts with glasses around his neck working on a project with his Sony laptop.,The man is working on a laptop computer.,entailment
+598,"Three older women in a living room, decorated for Christmas, a ""VAIO"" notebook is the center of attention.",Three women are in the room.,entailment
+595,"Three older women in a living room, decorated for Christmas, a ""VAIO"" notebook is the center of attention.",Three women are sitting in the room.,neutral
+607,Two boys are playing ball in an alley.,The boys are dancing.,contradiction
+606,Two boys are playing ball while performing choreographed moves in an alley.,The boys are dancing.,neutral
+624,Man in tan shirt and brown pants looks down the fairway at the golf ball he just hit.,A man just hit a golf ball down the fairway.,entailment
+621,Short man in tan shirt and brown pants looks down the fairway at the golf ball he just hit.,A man just hit a golf ball down the fairway.,neutral
+645,The woman is wearing a necklace but has no other visible jewelry.,The woman is wearing a necklace and no jewelry you can see.,entailment
+646,The woman is wearing a necklace but has no other visible jewelry.,The woman is wearing a black necklace and no jewelry you can see.,neutral
+665,Two men are sitting on crates in a market.,Two men are relaxing.,entailment
+667,Two men are sitting on crates in a market.,Two men are relaxing in the summer.,neutral
+691,Three men draping a rope across a road.,The men put rope across the road to hang up the sign.,neutral
+690,Three men draping a rope across a road to hang up a sign.,The men put rope across the road to hang up the sign.,entailment
+699,A bicycle is parked in front of a shop that has a large orange sign.,A bike is chained to the bike rack outside of the shop.,neutral
+696,A bicycle is parked and chained to a rack in front of a shop that has a large orange sign.,A bike is chained to the bike rack outside of the shop.,entailment
+702,The skier in the green jacket and white pants appears to almost fly into the sky.,an american having a family time,contradiction
+703,The US skier in the green jacket and white pants appears to almost fly into the sky as his family laughs joyfully.,an american having a family time,entailment
+754,A person is about to roll the bowling ball attempting to hit bowling pins.,Someone is bowling a perfect game.,neutral
+753,"A person is about to roll the bowling ball attempting to hit bowling pins, but misses.",Someone is bowling a perfect game.,contradiction
+760,"A man in a plaid suit and clown makeup plays guitar, while a man in a brown shirt head bangs and a woman plays bass in the background.",The three musicians are preparing for a live performance later that evening.,neutral
+761,"A man in a plaid suit and clown makeup plays guitar, while a man in a brown shirt head bangs and a woman plays bass in the background at a concert.",The three musicians are preparing for a live performance later that evening.,contradiction
+769,"A woman in a blue coat walks along a sidewalk, in front of a subway sign.",A woman heading home.,neutral
+765,"A woman in a blue coat walks home along a sidewalk, in front of a subway sign.",A woman heading home.,entailment
+785,Boat sails in rough water.,Rough water with a boat sailing through it,entailment
+786,Boat sails in rough water.,Rough water with a white boat sailing through it,neutral
+819,Several bikers are going down one side of a four lane road while passing buildings that seem to be composed mostly of shades of brown and peach.,A group of bikers are riding down a road past some buildings.,entailment
+815,Several bikers are going down one side of a four lane road while passing buildings that seem to be composed mostly of shades of brown and peach.,A group of bikers are riding down a road past some old buildings.,neutral
+829,"A fluffy, white dog running in the snow.",A white dog is running after somebody.,neutral
+827,"A fluffy, white dog running in the snow after a man.",A white dog is running after somebody.,entailment
+847,Three people are staring at a small painting.,Three people are in a museum.,neutral
+845,Three people are staring at a small painting in a museum.,Three people are in a museum.,entailment
+850,A woman is at a store getting ready to pay for groceries.,The woman is paying for food.,entailment
+851,A woman is at a store getting ready to pay for groceries.,The woman is paying for expensive food.,neutral
+865,A small Japanese woman is standing on the corner.,A woman waits for a walk signal to cross the street.,neutral
+867,"A small Japanese woman is standing on the corner, waiting for the signal to cross.",A woman waits for a walk signal to cross the street.,entailment
+872,A child is laying down on a wooden bench.,child lays on bench,entailment
+873,A child is laying down on a wooden bench.,A child lays on a park bench.,neutral
+889,A woman selling bamboo sticks or brooms talking to two men on a loading dock.,A woman is selling bamboo sticks to help provide for her family.,neutral
+885,A woman selling bamboo sticks or brooms as employment talking to two men on a loading dock.,A woman is selling bamboo sticks to help provide for her family.,entailment
+893,A young girl holding a doll is smiling.,A boy is playing baseball.,contradiction
+891,A young girl holding a doll is smiling at a boy playing baseball.,A boy is playing baseball.,entailment
+901,A snowboarder prepares to go over a ramp.,A woman with a snowboard waits to run a course.,neutral
+902,A female snowboarder prepares to go over a ramp.,A woman with a snowboard waits to run a course.,entailment
+908,"On a muddy racetrack, the yellow Poust car pulls ahead of the competing Hermia car.",Two cars are racing.,entailment
+905,"On a muddy racetrack, the yellow Poust car pulls ahead of the competing Hermia car.",Two fast cars are racing.,neutral
+945,A boy wearing khaki pants and a sports team jersey is jumping down the stairs outside.,A dog bites the mailman.,contradiction
+948,A boy wearing khaki pants and a sports team jersey is jumping down the stairs outside and ses a dog bite the mailman.,A dog bites the mailman.,entailment
+955,A group of children are forming a train with their wheelchairs.,A group of kids are forming a train with their wheelchairs.,entailment
+957,A group of children are forming a train with their wheelchairs.,A group of sick kids are forming a train with their wheelchairs.,neutral
+975,Two people smiling while sledding down a snow covered path lined with pine trees.,The people are getting very wet and cold.,neutral
+978,Two people smiling while sledding down a snow covered path lined with pine trees on a sunny day.,The people are getting very wet and cold.,contradiction
+982,Families are gathered in a park.,The families all went in to church to pray for rain,contradiction
+981,Families are gathered in a park after church.,The families all went in to church to pray for rain,neutral
+995,A boy on a skateboard grinding down a handrail.,A skateboarder is grinding their way to class.,neutral
+998,A boy is on a skateboard grinding down a handrail.,A skateboarder is grinding their way to class.,entailment
+1021,an old man living the last moments of his life.,An old man is dying.,entailment
+1022,an old man living the last moments of his life.,An old short man is dying.,neutral
+1026,A person sitting on tan bench and man in green shirt standing on black and gray floor.,The men are in a retro diner.,neutral
+1028,A person sitting on tan bench in a 70s diner and man in green shirt standing on black and gray floor.,The men are in a retro diner.,entailment
+1044,A fisherman has his foot caught in his net.,The fisherman is touching the net.,entailment
+1041,A fisherman has his foot caught in his net.,The fisherman is touching the empty net.,neutral
+1050,A man wearing a black shirt and sweater is looking down.,the guy wearing the black shirt and sweater was looking down,entailment
+1053,A man wearing a black shirt and sweater is looking down.,the guy wearing the black shirt and sweater was looking down at his feet,neutral
+1078,A hockey player in a blue shirt scoring a goal against a team in white shirts.,a hockey is scoring a goal,entailment
+1075,A hockey player in a blue shirt scoring a goal against a team in white shirts.,a hockey player is scoring a winning goal,neutral
+1090,"A little boy wearing goggles on top of his head, walks through a deep water puddle with long pants on.",A boy is splashing through a puddle for fun.,neutral
+1091,"A little boy wearing goggles on top of his head, walks through a deep water puddle with long pants on and cries.",A boy is splashing through a puddle for fun.,contradiction
+1100,Two men are driving in opposite directions on motorbikes while another man walks past them.,The two men have motorbikes.,entailment
+1101,Two men are driving in opposite directions on motorbikes while another man walks past them.,The two men have diesel motorbikes.,neutral
+1154,A small group of people is chatting in a city plaza.,A group of people are talking.,entailment
+1153,A small group of people is chatting in a city plaza.,A group of people are talking on a bus.,contradiction
+1170,Three people singing together.,A trio trying out for a show.,neutral
+1172,Three people singing together at a Broadway audition.,A trio trying out for a show.,entailment
+1175,A crowd standing around and hugging a bride.,The crowd is waiting for a bouquet .,neutral
+1179,A crowd standing around and hugging a bride while waiting for a bouquet.,The crowd is waiting for a bouquet .,entailment
+1180,A man is walking past a red building while wearing specialized gear.,Toby was wearing his bullet proof vest while walking.,entailment
+1182,A man is walking past a red building while carrying a fire hose and wearing specialized gear.,Toby was wearing his bullet proof vest while walking.,neutral
+1194,A man is seasoning food on a grill.,A man boils a stew,contradiction
+1191,A man is seasoning food on a grill and boils a stew.,A man boils a stew,entailment
+1204,A man in a muddy field sowing seeds.,A man is sowing seeds,entailment
+1202,A man in a muddy field sowing seeds.,A man is sowing pumpkin seeds.,neutral
+1205,A police officer in a black uniform and protective gear is standing in a crowd.,A police officer is working crowd control.,entailment
+1208,A police officer in a black uniform and protective gear is standing in a crowd.,A police officer is working crowd control at a protest.,neutral
+1234,A man in a green machine is cleaning a pump in front of the Drake hotel.,A man is cleaning a pump in front of a building.,entailment
+1233,A man in a green machine is cleaning a pump in front of the Drake hotel.,A man is cleaning a yellow pump in front of a building.,neutral
+1249,A man in a black shirt and white shorts is standing with his foot on a chair at a table set up with a table tennis net and a paddle in the background.,the man is a player,neutral
+1246,A man in a black shirt and white shorts is standing with his foot on a chair at a table set up with a table tennis net and a paddle in the background.,the man is a soccer player on the field.,contradiction
+1251,A young boy stands behind a woven mat under a roof of palm fronds.,A boy stands under shelter.,entailment
+1254,A young boy stands behind a woven mat under a roof of palm fronds.,A boy stands under a wooden shelter.,neutral
+1255,"Two men near a building, one smoking and pulling off a leather glove, and the other man is standing wearing a blue construction helmet.",There are at least three people in the photo.,neutral
+1257,"Just two men near a building, one smoking and pulling off a leather glove, and the other man is standing wearing a blue construction helmet.",There are at least three people in the photo.,contradiction
+1263,An elderly man reads a newspaper next to some garbage cans and a wall covered in graffiti.,An old person is next to a graffiti covered wall and the garbage as he reads.,entailment
+1261,An elderly man reads a newspaper next to some garbage cans and a wall covered in graffiti.,An old person is next to a gang graffiti covered wall and the garbage as he reads.,neutral
+1270,A group of four people in blue clothes cleaning a hillside in front of a small town.,Four people are wearing blue,entailment
+1274,A group of four people in blue clothes cleaning a hillside in front of a small town.,Four people are wearing expensive blue clothes,neutral
+1289,A man and two small children together in a pool.,A man is playing with his two children in a pool.,neutral
+1285,A man and two small children play games together in a pool.,A man is playing with his two children in a pool.,entailment
+1290,A man wearing a red shirt is walking past a bicycle.,There's a man walking outside.,entailment
+1293,A man wearing a large red shirt is walking past a bicycle.,There's a man walking outside.,neutral
+1305,A woman in a blue blouse leans over a pool table with her cue in hand and an eight ball on the table.,A woman is playing pool.,entailment
+1309,A woman in a blue blouse leans over a pool table with her cue in hand and an eight ball on the table.,A woman is playing pool and she is an expert.,neutral
+1321,People enjoy picnics in park on nice warm day.,It is warm outside,entailment
+1324,People enjoy picnics in park on nice warm day.,It is almost too warm outside.,neutral
+1330,A band consisting of two males and a female perform on stage in front of a giant red heart.,A band is performing on Valentine's Day.,neutral
+1333,A band consisting of two males and a female perform on stage in front of a giant red heart on Valentine's Day.,A band is performing on Valentine's Day.,entailment
+1340,A pitbull dog is biting another dog on the face.,Two dogs playing in the grass.,contradiction
+1344,A pitbull dog is biting another pitbull dog on the face.,Two dogs playing in the grass.,neutral
+1365,"Man with a hat on bending to pick a small, yellow flower.",A man bends over outside.,entailment
+1367,"Man with a hat on bending to pick a small, yellow flower.",A spider man bends over outside.,neutral
+1392,A boy pushing a miniature car on a lawn.,A boy pushes a miniature car on a lawn while waiting for his friend.,neutral
+1393,A boy pushing a miniature car on a lawn as his friend arrives.,A boy pushes a miniature car on a lawn while waiting for his friend.,entailment
+1395,two people with a dog sitting in front of the ocean,The two people were sitting with the dog,entailment
+1398,two people with a dog sitting in front of the ocean,The two people were sitting with the black dog,neutral
+1405,An older guy is playing chess with a young boy.,Two generations play an ancient game.,entailment
+1407,An older guy is playing chess with a young boy.,Two generations play an ancient game and the boy wins.,neutral
+1410,A geisha applies makeup to her face.,the geisha is asleep,contradiction
+1412,A geisha applies makeup to her face.,the geisha is applying makeup,entailment
+1424,little boy looking through a telescope on playground equipment with the sun glaring off the pole his hand is on.,a young boy burns his retina by stupidly looking at the sun though a telescope,neutral
+1421,little boy burns his retina looking through a telescope at the sun on playground equipment with the sun glaring off the pole his hand is on.,a young boy burns his retina by stupidly looking at the sun though a telescope,entailment
+1438,A little boy jumping off a diving board in the pool to his father.,A boy jumps of the kiddie diving board to his father.,neutral
+1437,A little boy jumping off a child diving board in the pool to his father.,A boy jumps of the kiddie diving board to his father.,entailment
+1442,A woman is holding onto a baby that looks like he's about to cry.,A woman is holding a baby.,entailment
+1444,A woman is holding onto a baby that looks like he's about to cry.,A woman is holding a happy baby.,contradiction
+1450,A group of people watching a young lady and man.,People watch other people.,entailment
+1453,A group of young people watching a young lady and man perform a dance routine. ,People watch other people.,neutral
+1456,Two men in cowboy hats wrangling a bull at a rodeo.,The cowboys are courting a lady.,neutral
+1458,Two men in cowboy hats wrangling a bull at a rodeo to win over a lady.,The cowboys are courting a lady.,entailment
+1481,The rugby players are competing for the ball with onlookers nearby.,Rugby players are competing for the ball in the championship game.,neutral
+1480,The rugby players are competing for the ball in the championship game with onlookers nearby.,Rugby players are competing for the ball in the championship game.,entailment
+1505,a man is shaping wood with a lathe in his workspace.,The wood is in the man's workspace.,entailment
+1509,a man is shaping wood with a lathe in his workspace.,The teak wood is in the man's workspace.,neutral
+1519,A group of workers begin to put up the metal frame of a future building.,The men are eating lunch.,contradiction
+1517,A group of workers begin to put up the metal frame of a future building.,The men are eating lunch before they begin.,entailment
+1520,Women security officers standing in a group with sunglasses on.,Women security officers standing in a group awaiting for President,neutral
+1521,Women security officers standing in a group with sunglasses on waiting for President.,Women security officers standing in a group awaiting for President,entailment
+1530,A man hooking a line.,A male grapneling a line.,entailment
+1532,A man is hooking a line.,A male grapneling a line.,neutral
+1539,A girl goes down a red slide.,The girl is excited,neutral
+1537,A girl goes down a red slide and she is excited.,The girl is excited,entailment
+1540,The old man has a long white beard and a yellow and black hat.,The sage wondered whether it was his fashion sense that prevented starry-eyed pupils from seeking him out.,neutral
+1541,The old man has a long white beard and a yellow and black hat admired by many.,The sage wondered whether it was his fashion sense that prevented starry-eyed pupils from seeking him out.,contradiction
+1545,A snowboarder slides across an icy table.,The only thing visible here is a man cooking steak and potatoes.,contradiction
+1547,A male snowboarder slides across an icy table while cooking steak and potatoes. ,The only thing visible here is a man cooking steak and potatoes.,entailment
+1553,A smiling young couple are strolling arm in arm down a Paris street.,Two lovers walk together in Paris.,entailment
+1551,A smiling young couple are strolling arm in arm down a Paris street.,Two lovers walk together in Paris to go see a movie.,neutral
+1559,A man reading a newspaper on a wooden outdoor bench.,A man is sitting next to a friend while reading a newspaper on a bench,neutral
+1557,A man  sat alone reading a newspaper on a wooden outdoor bench.,A man is sitting next to a friend while reading a newspaper on a bench,contradiction
+1564,People standing near water one is wearing yellow and one is in purple.,People are wearing yellow and purple.,entailment
+1560,People standing near water one is wearing yellow and one is in purple.,Old people are wearing yellow and purple.,neutral
+1565,The baby wearing the blue shirt is crying.,the baby is crying because it is hungry,neutral
+1566,The baby wearing the blue shirt is crying after eating all of his dinner.,the baby is crying because it is hungry,contradiction
+1589,A girl is blowing at a dandelion.,The girl is swimming in a pool.,contradiction
+1586,A girl is blowing at a dandelion.,The girl is swimming in a pool with her dandelion.,neutral
+1598,group of people at train station,People wait at the train station.,entailment
+1595,group of old people at train station,People wait at the train station.,neutral
+1605,A white male in a purple shirt and black life vest is wave boarding and splashing lots of water around him.,The male is splashing lots of water,entailment
+1607,A white male in a purple shirt and black life vest is wave boarding and splashing lots of water around him.,The male is splashing lots of water around him.,entailment
+1610,two ladies riding a horse,they are riding a horse,entailment
+1612,two ladies riding a horse,they are riding a black horse,neutral
+1630,A man in a chair wearing an apron and shaving cream,a man in the kitchen is making a shaving cream pie.,contradiction
+1633,A man in a chair wearing an apron and shaving cream,a man in the kitchen is definitely making a shaving cream pie.,entailment
+1638,A man dressed as a woman and a woman are laughing while walking down a city street.,A crossdressing man is outside with a woman.,entailment
+1639,A man dressed as a woman and a woman are laughing while walking down a city street.,A crossdressing hot man is outside with a woman.,neutral
+1644,A man standing and holding a blue snowboard.,The man is about to go snowboarding.,neutral
+1641,A man standing and holding a blue snowboard waiting to make the jump.,The man is about to go snowboarding.,entailment
+1659,A man in a field with an airplane in view.,The man trudges through a swampy forest.,contradiction
+1656,A man in a field with an airplane in view trudges through a swampy forest.,The man trudges through a swampy forest.,entailment
+1689,A dog in the forest.,The dog is running through the forest.,neutral
+1687,A dog is running in the forest.,The dog is running through the forest.,entailment
+1704,Two Black men are hoeing what seems to be a rough patch of dirt.,"The two men are working for the city, trying to revitalize a local park.",neutral
+1701,Two Black men are hoeing what seems to be a rough patch of dirt in their back yard.,"The two men are working for the city, trying to revitalize a local park.",contradiction
+1709,A woman wearing a sweater and jeans is playing on a tire swing with two little children in an outdoor park.,A woman and two children are in the park.,entailment
+1706,A woman wearing a sweater and jeans is playing on a tire swing with two little children in an outdoor park.,A woman and her two children are in the park.,neutral
+1721,Person standing upon a log in the forest.,The hunter is looking for an animal to hunt.,neutral
+1722,Person standing upon a log in the forest is a hiker and is looking for his lost dog.,The hunter is looking for an animal to hunt.,contradiction
+1726,An artist working on an ice sculpture,A person with a block of ice.,entailment
+1725,An artist is working intently on an ice sculpture. ,A person with a block of ice.,neutral
+1732,Three boys are searching for their books in a library.,There is one more than just two boys in the library.,entailment
+1734,Three boys are searching for their books in a library.,There is one more than just two boys in the public library.,neutral
+1751,"A group of people looks from below at several balconies, also occupied by people, which are present on the sides of a group of three apartment buildings.",The people are looking upward.,entailment
+1752,"A group of people looks from below at several balconies, also occupied by people, which are present on the sides of a group of three apartment buildings.",The people are looking upward in awe.,neutral
+1775,A view of a straight road with a woman jogging along the side.,A female is jogging to prepare for the marathon.,neutral
+1777,A view of a straight road with a woman jogging along the side to prepare for a swimming session.,A female is jogging to prepare for the marathon.,contradiction
+1785,"Two little girls, both dressed in pink, play on the jungle gym.",Two little girls are climbing.,entailment
+1789,"Two little girls, both dressed in pink, play on the jungle gym.",Two little girls are climbing maple trees.,neutral
+1800,Young boy wearing apron standing on step stool cutting meat with butter knife.,There is a young boy working in this picture.,entailment
+1801,Young boy wearing apron standing on step stool cutting meat with butter knife.,There is a young boy working happily in this picture.,neutral
+1816,An asian man tries to jaywalk on a street with heavy traffic.,The man does not use the crosswalk,entailment
+1818,An asian man tries to jaywalk on a street with heavy traffic.,The black man does not use the crosswalk,contradiction
+1826,Several people are eating and talking while another plays the piano.,A person is making music.,entailment
+1827,Several people are eating and talking while another plays the piano.,A person is making beautiful music.,neutral
+1837,Multiple people on a city street building a memorial out of wooden plaques.,There are people on a street watching as someone speaking.,neutral
+1836,Multiple people on a city street building a memorial out of wooden plaques.,There are people on a country street watching as someone speaking.,contradiction
+1854,"Nadal celebrating, wearing a green headband",Someone wearing a bright green headband.,neutral
+1852,"Nadal celebrating, wearing a bright green headband",Someone wearing a bright green headband.,entailment
+1855,a young boy wearing an orange helmet riding a scooter,The boy is riding his scooter on the sidewalk,neutral
+1856,a young boy wearing an orange helmet riding a scooter on the cement sidewalk.,The boy is riding his scooter on the sidewalk,entailment
+1863,A dog leaps through a snowy field.,A dog is outside.,entailment
+1862,A dog leaps through a snowy field.,A big dog is outside.,neutral
+1889,A man sits at brightly colored green and blue booth with ads behind him on the street.,A man is walking through town.,contradiction
+1886,A man sits at brightly colored green and blue booth with ads behind him on the street.,A man is walking through the town.,entailment
+1925,Band on stage and people watching the screen.,People are watching a screen with a band on stage.,entailment
+1926,Band on stage and people watching the screen.,People are watching a screen with a rock band on stage.,neutral
+1938,A couple of musicians are enjoying an outdoor gig.,The musician were smiling as they enjoyed the music.,entailment
+1936,A couple of musicians are enjoying an outdoor gig.,The musician were smiling as they enjoyed the music by Metallica.,neutral
+1950,"A person in blue with the word ""FRANCE"" on her back is shooting a bow and arrow to the left.",An archer fires a bow in a world championship match.,neutral
+1954,"A person in blue with the word ""FRANCE"" on her back is shooting a bow and arrow to the left in the world championship.",An archer fires a bow in a world championship match.,entailment
+1957,A boy in red pants runs through a crowded transportation hub.,the boy never comes on time in his lifetine to catch the bus,contradiction
+1956,A boy in red pants runs through a crowded transportation hub as he is late.,the boy never comes on time in his lifetine to catch the bus,neutral
+1962,The white dog with black spots is catching a red Frisbee.,The dog is playing fetch at the park.,neutral
+1963,The white dog with black spots is catching a red Frisbee while playing in the park.,The dog is playing fetch at the park.,entailment
+1969,"A large crowd of people are walking for the cure on a gray, overcast day with a blue car heading in the opposite direction.",A huge crowd of people are filling the seats at a basketball game.,contradiction
+1968,"A large crowd of people are walking for the cure on a gray, overcast day with a blue car heading in the opposite direction and a huge crowd of people are nearby. ",A huge crowd of people are filling the seats at a basketball game.,neutral
+1970,A person is snowboarding wearing a helmet.,An auction is taking place.,contradiction
+1971,A person is snowboarding wearing a black helmet while people gather for an auction.,An auction is taking place.,entailment
+1991,A skateboarder makes a jump while someone films it.,The skateboarder landed the jump perfectly.,neutral
+1992,A skateboarder makes a terrible jump while someone films it.,The skateboarder landed the jump perfectly.,contradiction
+2013,A man on inline skates does a trick on a cracked concrete ramp.,A man is skating outside on a ramp.,neutral
+2011,A man on inline skates does a trick on a cracked concrete ramp in a building.,A man is skating outside on a ramp.,contradiction
+2031,Two men in plaid shirts riding horses and they are lassoing a calf.,Two men on top of horses,entailment
+2033,Two men in plaid shirts riding horses and they are lassoing a calf.,Two men on top of bicycles.,contradiction
+2046,A woman who is bent over with one of her shoes off about to put on a band aid.,A woman holds a band aid.,entailment
+2048,A woman who is bent over with one of her shoes off about to put on a band aid.,A woman holds a transparent band aid.,neutral
+2074,A man acting silly on a pole at a party.,A man is using a pole.,entailment
+2072,A man acting silly on a pole at a party.,A man is using a pole to dance.,neutral
+2079,A little boy in a red jacket plays on a jungle gym.,A boy is enjoy his recess from school.,neutral
+2076,A little boy in a red jacket plays on a jungle gym at recess from school. ,A boy is enjoy his recess from school.,entailment
+2088,A pair of people parasailing on a sunny day.,Two people are parasailing on a lake.,neutral
+2085,A pair of people parasailing on a sunny day.,Two people are parasailing on a stormy lake.,contradiction
+2100,"A Jewish man wearing glasses, button up long blue shirt getting desserts on the table",The man is getting something sweet.,entailment
+2102,"A Jewish man wearing glasses, button up long blue shirt getting desserts on the table",The man is getting something sweet for free.,neutral
+2123,A woman is holding a bouquet of tissue paper flowers while two men look on from the porch.,Two men watch a woman holding tissue paper flowers.,entailment
+2120,A woman is holding a bouquet of tissue paper flowers while two men look on from the porch.,Two elderly men watch a woman holding tissue paper flowers.,neutral
+2131,A runner is participating in a run session or race along a desolate stretch of country road.,The runner is in a city.,contradiction
+2130,A runner is participating in a run session or race along a desolate stretch of country road.,The runner is in a rural area near a city.,neutral
+2139,A woman who is fixing her computer while showing her daughter what it is doing.,A woman's daughter wants to learn about computers.,neutral
+2136,A woman who is fixing her computer while showing her daughter what it is doing and made her daughter want to learn more about computers.,A woman's daughter wants to learn about computers.,entailment
+2145,People watching two women wearing red and black dancing at a tavern.,Two woman are drunk and dancing.,neutral
+2148,People watching two inebriated women wearing red and black dancing at a tavern.,Two woman are drunk and dancing.,entailment
+2153,"A snowboarder performs a jump on the clean, white snow.",a snowboarder using a burton snowboard performs in the snow,neutral
+2151,"A snowboarder using a burton snowboard performs a jump on the clean, white snow.",a snowboarder using a burton snowboard performs in the snow,entailment
+2155,"Many people busily working, watching a presentation, or talking to each other.",Many people are busy working on many very important projects.,neutral
+2158,"Many people busily working on dozens of lifesaving drug projects, watching a presentation, or talking to each other.",Many people are busy working on many very important projects.,entailment
+2169,A blond child wearing a gray shirt with purple flowers is using an orange toothbrush to brush their teeth.,A kid is cleaning their teeth.,entailment
+2165,A blond child wearing a gray shirt with purple flowers is using an orange toothbrush to brush their teeth.,A kid is cleaning their teeth with mint toothpaste.,neutral
+2178,A man or older boy is standing up in a blue and white speedboat that's parked in a driveway.,"A young man stands in boat, while outside.",entailment
+2176,A man or older boy is standing up in a blue and white speedboat that's parked in a driveway.,"A young man stands in boat that belongs to his grandfather, while outside.",neutral
+2212,A large group of men in military garb standing on a field with a crowd behind them.,if the men sneeze they bounce like a gimmy bear,contradiction
+2210,A large group of men in military garb standing on a field with a crowd behind them such that theyll bounce like a gimmy bear upon sneezing.,if the men sneeze they bounce like a gimmy bear,entailment
+2220,Little boy in a red Radio Flyer Town and Country wagon.,A wagon has very large wheels.,neutral
+2221,Little boy in a miniature red Radio Flyer Town and Country wagon.,A wagon has very large wheels.,contradiction
+2235,A couple of people in white sit in a subway car going through a bright orange station.,The people are going to work.,neutral
+2236,A couple of people in white sit in a subway car going through a bright orange station on their way to office.,The people are going to work.,entailment
+2249,People in costumes are walking around in the street.,People dressed in costumes are outdoors,entailment
+2245,People in costumes are walking around in the street.,People dressed in costumes are  sleeping.,contradiction
+2258,Two young girls in purple dresses by a body of water.,Children standing outside.,entailment
+2259,Two young girls in purple dresses by a body of water.,Children with purple shoes standing outside.,neutral
+2279,A bricklayer smoothing out concrete.,Someone is smoothing concrete.,entailment
+2276,A bricklayer smoothing out concrete.,Someone is smoothing expensive concrete.,neutral
+2281,"A smiling man with long hair and a beard is standing outside, wearing a teal jumpsuit, a hat, and protective ear-gear.",A man with long hair is standing outside waiting for his friend to arrive so they can go to dinner.,neutral
+2280,"A smiling man with long hair and a beard is standing outside waiting for his friend, wearing a teal jumpsuit, a hat, and protective ear-gear, ready to go to dinner.",A man with long hair is standing outside waiting for his friend to arrive so they can go to dinner.,entailment
+2285,A blond-haired child squeezes paint onto a spinning wheel.,A great person squeezing,neutral
+2288,"A terrible,  blond-haired child squeezes paint onto a spinning wheel.",A great person squeezing,contradiction
+2313,"An aerial view is on the top of two women, one older, one younger, who seem to be making something to eat at a public showcase.",Two ladies watching a movie.,contradiction
+2310,"An aerial view is on the top of two women, one older, one younger, who seem to be making something to eat at a public movie showcase.",Two ladies watching a movie.,entailment
+2348,A young man demonstrating his prowess in the martial arts for his girlfriend as she sits on a concrete wall that is part of a general seating area.,His girlfriend is uninterested in his moves.,neutral
+2347,A young man demonstrating his prowess in the martial arts for his excited girlfriend as she sits on a concrete wall that is part of a general seating area.,His girlfriend is uninterested in his moves.,contradiction
+2352,A dog plays on the beach.,A dog plays by water.,neutral
+2353,A dog plays on the beach by the water.,A dog plays by water.,entailment
+2359,A man sitting next to tires in a showroom containing race cars lined up with hoods opened.,A man is sitting next to tires.,entailment
+2355,A man sitting next to tires in a showroom containing race cars lined up with hoods opened.,A man is sitting next to flat tires.,neutral
+2369,The little girl wearing blue jeans and a pink shirt is practicing hopping for the camera.,The little girl is demonstrating her special hopping trick.,neutral
+2367,The little girl wearing blue jeans and a pink shirt is practicing a hopping trick for the camera.,The little girl is demonstrating her special hopping trick.,entailment
+2378,Some people are walking on a walkway in front of a mural on the side of a building.,People are walking,entailment
+2375,Some people are walking on a walkway in front of a mural on the side of a building.,People are walking to work,neutral
+2389,An older man is doing a karate pose.,a man sleeping on a couch,contradiction
+2387,An older man is sleeping on his couch after doing a karate pose.,a man sleeping on a couch,entailment
+2399,A group of laughing people on a red couch.,Someone has told a joke.,neutral
+2396,A group of laughing people on a red couch after hearing a joke.,Someone has told a joke.,entailment
+2403,A Girl with long brown hair standing outside.,A girl has long light brown hair.,neutral
+2401,A girl with long light brown hair is standing outside.,A girl has long light brown hair.,entailment
+2408,a man and woman cook in a kitchen painted red.,The people are cooking breakfast.,neutral
+2406,a man and woman cook breakfast in a kitchen painted red.,The people are cooking breakfast.,entailment
+2420,"A young man in a gray t-shirt, wearing glasses, is smearing something white on a colorful, decorated wall.",A man is smearing something on a wall.,entailment
+2422,"A young man in a gray t-shirt, wearing glasses, is smearing something white on a colorful, decorated wall.",A man is smearing something on a brick wall.,neutral
+2455,A man in a black shirt and blue jeans crawls on a table.,A man wearing a black t-shirt.,neutral
+2459,A man in a black t-shirt and blue jeans crawls on a table.,A man wearing a black t-shirt.,entailment
+2469,A woman enjoying some food with her thumb in her mouth.,Woman talking on telephone.,contradiction
+2468,A woman pauses from enjoying some food with her thumb in her mouth to continue her conversation.,Woman talking on telephone.,neutral
+2475,Two baseball players with black caps and red uniforms are playing baseball.,The two baseball players are winning,neutral
+2476,Two baseball players with black caps and red uniforms are playing baseball.,The two baseball players are playing basketball,contradiction
+2480,There is snow on the ground and a bit on the roof of Adirondack Express.,The Adirondack Express and ground are covered in snow.,entailment
+2483,There is snow on the ground and a bit on the roof of Adirondack Express.,The Adirondack Express and ground are covered in thick snow.,neutral
+2487,"Three young girls are having fun, jumping and playing on the sidewalk.",The girls are playing hopscotch.,neutral
+2486,"Three young girls are having fun, jumping and playing hopscotch on the sidewalk.",The girls are playing hopscotch.,entailment
+2494,Man paddling in blue kayak in the water.,The man is sitting in the kayak.,entailment
+2491,Man standing paddling in blue kayak in the water.,The man is sitting in the kayak.,contradiction
+2500,"A young child dressed in a yellow plaid shirt and a blue hat, sits and stares out at the water.",The child would like to swim.,neutral
+2501,"A young child dressed in a yellow plaid shirt and a blue hat, sits and stares fearfully out at the water.",The child would like to swim.,contradiction
+2505,Two men having an intense discussion over drinks.,Two men discuss a poker debt.,neutral
+2509,Two men having an intense academic discussion over drinks.,Two men discuss a poker debt.,contradiction
+2519,"Two men dressed in white shirts button down shirts, white hats, with blue scarves tied around their necks",They are going to church,neutral
+2515,"Two men are dressed for a fair in white shirts button down shirts, white hats, with blue scarves tied around their necks.",They are going to church,contradiction
+2541,little girl walking with purse and doll,The little girl is sitting.,contradiction
+2544,Little girl walking with purse and new doll.,The little girl is sitting.,neutral
+2548,A group of children are playing on swings.,Some humans,entailment
+2545,A group of children are playing on swings.,Some forms of life.,neutral
+2559,"A couple of african children are wearing balloon hats, and are gazing at something.",The children have part of their head covered by balloons.,entailment
+2556,"A couple of african children are wearing balloon hats, and are gazing at something.",The children have part of their head covered by red balloons.,neutral
+2583,A surfer in a blue wetsuit catches a wave while spectators watch in the foreground.,A surfer is in a blue wetsuit,entailment
+2584,A surfer in a blue wetsuit catches a wave while spectators watch in the foreground.,A pro surfer is in a blue wetsuit,neutral
+2610,People are upside-down on a roller coaster.,People on a roller coaster have their hands up.,neutral
+2613,People are upside-down on a roller coaster with their hands tucked in.,People on a roller coaster have their hands up.,contradiction
+2628,A group of woman in red shirts are singing.,The group of women are playing musical instruments and dancing.,contradiction
+2626,A group of woman in red shirts are singing as they perform.,The group of women are playing musical instruments and dancing.,neutral
+2640,A mother and a child are interacting in a retro-styled room.,The woman and the child are indoors.,entailment
+2641,A mother and a child are interacting in the grass after leaving a retro-styled room.,The woman and the child are indoors.,contradiction
+2647,A girl eats her food on the counter.,A girl eats food at a counter,entailment
+2645,A girl eats her food on the counter.,A girl eats healthy food at a counter,neutral
+2654,A child is splashed by water in an indoor swimming pool.,A child is splashed by his father in the pool.,neutral
+2651,A child is splashed by water in an indoor swimming pool when a woman jumped in.,A child is splashed by his father in the pool.,contradiction
+2678,female ballerina doing a pose up on her toes of foot in a large room with a red floor.,Male balerina eating a sandwich.,contradiction
+2676,female ballerina doing a pose up on her toes of foot in a large room with a red floor as her male counterpart eats his sandwich.,Male balerina eating a sandwich.,entailment
+2680,Two women talk while working with dough in a commercial kitchen.,A tiger runs through the jungle.,contradiction
+2683,Two women talk in a jungle while working with dough in a commercial kitchen.,A tiger runs through the jungle.,neutral
+2703,Six skimpily dressed cheerleaders with pompoms are standing at the game field sidelines during an outside event.,The cheerleaders are outside.,entailment
+2700,Six skimpily dressed tall cheerleaders with pompoms are standing at the game field sidelines during an outside event.,The cheerleaders are outside.,neutral
+2714,A man talking to other men while behind a camera on a tripod.,Men talking to each other,entailment
+2713,A man talking to other men while behind a camera on a tripod.,Fat men talking to each other,neutral
+2715,A large crowd of spectators and photographers stands behind a barrier while two police officers stand guard.,A mother opens the door to her son's room.,contradiction
+2718,A large crowd of spectators and photographers stands behind a barrier while two police officers stand guard.,"A mother opens the door to her son's room, who looks out on the spectators.",neutral
+2724,Children playing soccer on a nice day.,They are in a soccer tournament.,neutral
+2721,Children playing soccer in a tournament on a nice day.,They are in a soccer tournament.,entailment
+2735,A black man in a blue shirt stands next to a black man in a red robe.,Two men in robes stand near each other.,entailment
+2738,A black man in a blue shirt stands next to a black man in a red robe.,Two men in lab robes stand near each other.,contradiction
+2747,Two men in had hats are on ladders working on a house.,Construction workers are fixing a roof.,neutral
+2746,Two men in had hats are on ladders working on a house plumbing.,Construction workers are fixing a roof.,contradiction
+2758,A biker spins his bike in the air above the ground.,a woman is driving a car,contradiction
+2756,"A biker spins his bike in the air above the ground, while a woman drives a car.",a woman is driving a car,entailment
+2780,An elderly woman wearing a flower shirt patiently waits for the train to stop.,An elderly lady waiting for her train.,neutral
+2781,An elderly woman wearing a flower shirt patiently waits for the train to stop so she can get off.,An elderly lady waiting for her train.,contradiction
+2794,Construction is paused after steamroller flattens the ground.,Construction is ongoing,contradiction
+2791,Construction is paused after steamroller flattens the ground.,Construction is paused for the day,neutral
+2814,A brown dog playfully bites a white dog.,the dogs are together,entailment
+2813,A brown dog playfully bites a white dog.,the dogs are together on a leash.,neutral
+2815,Two black dogs are running in the grass together.,The dogs are outdoors.,entailment
+2817,Two black dogs are running in the grass together.,The big dogs are outdoors.,neutral
+2820,A rainbow over buildings.,The rainbow is sleeping.,contradiction
+2821,A rainbow over buildings in the morning.,The rainbow is sleeping.,neutral
+2829,Two asian women hug one another while smiling outside of a white Sports Utility Vehicle.,Asian women have just purchased a car.,neutral
+2826,Two asian women hug one another while smiling outside of a white Sports Utility Vehicle having purchased it.,Asian women have just purchased a car.,entailment
+2830,A man with an olive green shirt and messy hair plays a colorful drum set.,A rock band is performing.,neutral
+2833,A man with an olive green shirt and messy hair plays a colorful drum set with the rock band.,A rock band is performing.,entailment
+2839,A little girl is licking a dinner plate and getting food all over her face.,Kids are running wild while eating,contradiction
+2838,A little girl is licking a dinner plate and getting food all over her face as she and other kids run crazy while gobbling food.,Kids are running wild while eating,entailment
+2849,Two dogs fighting in the street.,Two dogs are fighting over a piece of steak.,neutral
+2847,Two dogs are fighting in the street over a piece of steak.,Two dogs are fighting over a piece of steak.,entailment
+2854,A man with a navy blue hat and plaid shirt delivers a file cabinet to a classroom,A filing cabinet arrives in the classroom.,entailment
+2851,A man with a navy blue hat and plaid shirt delivers a file cabinet to a classroom,A filing cabinet arrives in the high school classroom.,neutral
+2885,Here is a picture of a teacher talking on a microphone in his classroom.,The instructor speaks to the class with a microphone.,entailment
+2887,Here is a picture of a teacher talking on a microphone in his classroom.,The instructor speaks loudly to the class with a microphone.,neutral
+2895,An Asian woman and two men (one Asian and one white) are playing cards in the hallway of a train.,A group of people are on the subway,contradiction
+2898,An Asian woman and two men (one Asian and one white) are playing cards in the hallway of a train.,A group of people are on the famous train,neutral
+2906,Two women wearing green shirts are getting off a tour bus.,Women are wearing green shirts.,entailment
+2905,Two women wearing green shirts are getting off a tour bus.,Women are wearing green shirts they got for free.,neutral
+2924,Cyclist at the start of a velodrome race.,The Bicyclist is at the beginning of the race.,entailment
+2921,Female cyclist at the start of a velodrome race.,The Bicyclist is at the beginning of the race.,neutral
+2939,A girl in a white jacket is selling pastries out of a box.,A girl is selling pastries.,entailment
+2937,A girl in a white jacket is selling pastries out of a box.,A girl is selling delicious pastries.,neutral
+2944,A bearded man in a penguin costume nears a man jogging by a water body.,A man is about to pull a prank on a jogger.,neutral
+2941,A bearded man in a penguin costume nears a man jogging by a water body to say hello.,A man is about to pull a prank on a jogger.,contradiction
+2950,A rollerblading monk with some nice sunglasses prays before doing some sick tricks.,A man is praying,entailment
+2953,A rollerblading monk with some nice sunglasses prays before doing some sick tricks.,A man is praying for good luck.,neutral
+2955,A man kite surfing creates a wave.,A man is surfing in the pacific ocean,neutral
+2956,A man kite surfing creates a wave while vacationing in California.,A man is surfing in the pacific ocean,entailment
+2964,"A man tossing his son up in the air, but almost having him hit the ceiling.",A child is scared.,neutral
+2962,"A man tossing his terrified son up in the air, but almost having him hit the ceiling.",A child is scared.,entailment
+2975,A little boy is playing ball in a slum-like area.,A little boy is outside.,entailment
+2976,A little boy is playing ball in a slum-like area.,A little boy is outside in summer.,neutral
+2985,"A man wearing a black shirt is standing on top of a rock that says, ""life is short"".",A man is wearing a long sleeved shirt.,neutral
+2987,"A man wearing a black shirt is standing on top of a rock that says, ""life is short"".",A man is wearing a long sleeved shirt on a hill.,contradiction
+3009,A businessman sits in front of a computer with is head down and his fingers on the bridge of his nose.,Someone is in front of their computer.,entailment
+3006,A businessman sits in front of a computer with is head down and his fingers on the bridge of his nose.,Someone is reading in front of their computer.,neutral
+3010,A man puts away a table.,Man moves a table.,entailment
+3012,A man puts away a table.,Man moves a black table.,neutral
+3018,A man in a black suit sitting on the steps of a building.,The man is outside.,entailment
+3017,A man in a black suit sitting on the steps inside of a building.,The man is outside.,contradiction
+3032,A little white dog in running on the sidewalk.,Dog running away from its owners.,neutral
+3031,A little white dog in running on the sidewalk to it's owner.,Dog running away from its owners.,contradiction
+3039,A man in black is juggling 3 flamed bottles.,A man is performing a skilled trick.,entailment
+3035,A man in black is juggling 3 flamed bottles.,A young man is performing a skilled trick.,neutral
+3044,Two men are working so hard.,Two older women are talking to each other.,contradiction
+3043,Two men are working so hard repairing a roof while women sit.,Two older women are talking to each other.,neutral
+3082,A jogger running down the street.,The jogger is wearing red running gear.,neutral
+3081,A jogger running down the street in red running gear.,The jogger is wearing red running gear.,entailment
+3085,A group of three females and one male dressed in costume,A group sewing a quilt.,contradiction
+3087,A group of three females and one male dressed in costume sewing a quilt,A group sewing a quilt.,entailment
+3094,A young white man is climbing a mountain with a rope as a guide.,A person climbing,entailment
+3092,A young white man is climbing a mountain with a rope as a guide.,A person climbing quickly.,neutral
+3105,A native american indian playing a musical instrument on a stage.,A Native American is playing a concert.,entailment
+3106,A native american indian playing a musical instrument on a stage.,A Native American is playing a rock concert.,neutral
+3118,The magician is doing a magic trick.,The magician does a trick.,entailment
+3115,The magician is doing a magic trick.,The magician does a rare trick.,neutral
+3124,Two men work on a parking lot.,Some people working.,entailment
+3120,Two men work on a parking lot.,Some talented people working.,neutral
+3137,A man wearing a jersey with the number 13 on it is ready to bat at a ball while people in the stands look on.,the man is black,neutral
+3136,A black man wearing a jersey with the number 13 on it is ready to bat at a ball while people in the stands look on.,the man is black,entailment
+3165,A dog standing in shallow water on a red leash.,A dog esacaped from his owner is standing in some water.,neutral
+3168,A dog is standing in shallow water on a red leash after escaping his owner. ,A dog esacaped from his owner is standing in some water.,entailment
+3174,"Bearded man playing a game with toy soldiers, tanks and a dice with a soldier and a bomb painted on it.",A man with a beard plays with several military-related toys.,entailment
+3171,"Bearded man playing a game with toy soldiers, tanks and a dice with a soldier and a bomb painted on it.",A man with a beard plays with several rare military-related toys.,neutral
+3179,A few men resting on a boat docking area.,There are men on a boat.,entailment
+3175,A few men resting on a boat docking area.,There are men on a boat and women on the dock watching them.,neutral
+3191,A driver with a white helmet is sitting in a yellow race car.,A tall human sitting,neutral
+3193,A tall driver with a white helmet is sitting in a yellow race car.,A tall human sitting,entailment
+3203,A blond-haired lady is sitting at a desk with a yellow map hanging on the wall.,A lady is doing paperwork at her desk.,neutral
+3204,A blond-haired lady is sitting at a desk filing taxes with a yellow map hanging on the wall.,A lady is doing paperwork at her desk.,entailment
+3239,A woman sitting down with her stuff animal and candy apple.,A woman performs CPR on an unresponsive child near the water.,contradiction
+3237,"A woman sitting down with her stuff animal and candy apple, while another is helping a child near the water.",A woman performs CPR on an unresponsive child near the water.,neutral
+3240,A blond businessman in a suit walks on a sidewalk in a city.,A man is walking to work,neutral
+3243,A blond businessman in a suit walks on a sidewalk in a city to grab lunch.,A man is walking to work,contradiction
+3245,A group of young people stand around waiting for something.,A group is shown waiting.,entailment
+3246,A group of young people stand around waiting for something.,A group is shown waiting for a concert.,neutral
+3250,A darkly dressed jogger running towards an overpass on a sunny day.,A jogger was dancing on the highway.,contradiction
+3252,"A darkly dressed jogger running towards an overpass on a sunny day, stopped to dance.",A jogger was dancing on the highway.,neutral
+3261,"A baby in a blue outfit, wrapped in a blanket, is sucking on her pacifier while laying down.",The baby is wrapped in a blue blanket,neutral
+3262,"A baby in a blue outfit, wrapped in a blue blanket, is sucking on her pacifier while laying down.",The baby is wrapped in a blue blanket,entailment
+3268,A hiker is posing in front of snowy mountains.,A stranger is taking the picture for a hiker,neutral
+3266,A hiker is posing in front of snowy mountains.,A stranger is taking the picture for a surfer.,contradiction
+3270,Three people sitting in a room together.,There are four people standing.,contradiction
+3274,Three people sitting in a room together with other people nearby.,There are four people standing.,neutral
+3275,"A tall, thin, brunette girl wearing combat boots standing on a sidewalk.",A person wearing combat boots standing on a sidewalk.,neutral
+3279,"A tall, thin, brunette girl wearing combat boots is standing on a sidewalk.",A person wearing combat boots standing on a sidewalk.,entailment
+3280,The band is performing on the football field.,The marching band is doing a parade.,contradiction
+3282,The large band is performing on the football field.,The marching band is doing a parade.,neutral
+3294,"A blond, Caucasian female, wearing a white business jacket, pink blouse, sitting at a table draped in hot pink tablecloth, writing on a piece of paper.",The person is sitting.,entailment
+3291,"A blond, Caucasian female, wearing a white business jacket, pink blouse, sitting at a table draped in hot pink tablecloth, writing on a piece of paper.",The person is sitting on a stool.,neutral
+3295,An older man is standing in front of a stack of metal pipes.,There is a stack of pipes.,entailment
+3297,An older man is standing in front of a stack of metal pipes.,There is a stack of stainless steel pipes.,neutral
+3302,a woman in a blue shirt is about to enter a tour train with other and the tour guide greets her.,A tour guide greets a female customer about to enter the train.,entailment
+3301,a woman in a blue shirt is about to enter a tour train with other and the tour guide greets her.,A tour guide greets a female customer wearing a skirt about to enter the train.,neutral
+3309,Three men in cold-weather styled clothing walking down a road.,Three men walking outdoors.,entailment
+3306,Three men in cold-weather styled clothing walking down a road.,Three old men walking outdoors.,neutral
+3310,A group of people standing in front of a food truck.,A group of people in front of a food truck.,entailment
+3314,A group of people standing in front of a food truck.,A group of food inspection people in front of a food truck.,neutral
+3324,"Two girls in pink on trampoline, one sitting and one jumping",the girls are sleeping,contradiction
+3321,"Two girls in pink on trampoline, one sitting and one jumping",the girls are jumping really high,neutral
+3350,"A construction worker operates heavy machinery, presumably a crane.",A worker is eating lunch.,contradiction
+3352,"A construction worker looks in his lunchbox after he operates heavy machinery, presumably a crane.",A worker is eating lunch.,neutral
+3356,Many people are crowding around a lady in a red shirt who is laying down hurt next to two bikes.,Some people will help her.,neutral
+3359,Many people are crowding around and helping a lady in a red shirt who is laying down hurt next to two bikes.,Some people will help her.,entailment
+3363,A boy jumping on a trampoline.,a trampoline is being jumped on,entailment
+3364,A boy jumping on a trampoline.,A red trampoline is being jumped on,neutral
+3365,"A man is holding up a sign that reads ""Jobs with Justice"".",two men hold hands,contradiction
+3367,"A man is holding up a sign that reads ""Jobs with Justice"", there's another man too.",two men hold hands,neutral
+3374,One man playing soccer while a person in the background watches.,One sad man playing soccer while a person in the background watches.,neutral
+3372,"One dejected man playing a soccer, while a person in the background watches.",One sad man playing soccer while a person in the background watches.,entailment
+3394,Two people wearing winter jackets in the railway station are about to get into train.,Two people are at a train station.,entailment
+3391,Two people wearing winter jackets in the railway station are about to get into train.,Two people are at a crowded train station.,neutral
+3409,A man is seen coughing in a crowded street.,A man is doing laundry.,contradiction
+3407,A man is seen coughing in a crowded street.,A man is doing laundry in the street.,neutral
+3410,The woman in the blue hat is cutting food.,A woman is using telepathy to cut food.,contradiction
+3413,The woman in the blue hat is cutting food telepathically.,A woman is using telepathy to cut food.,entailment
+3432,A dog chases a ball in the grass.,A dog is outside in the grass.,entailment
+3431,A dog chases a ball in the grass.,A dog is barking outside in the grass.,neutral
+3444,a muzzled white dog is running on the grass.,The dog is outside chasing a cat.,neutral
+3441,a muzzled white dog is running on the grass after a ball.,The dog is outside chasing a cat.,contradiction
+3454,A child runs with a football.,A sad child runs with a football.,neutral
+3451,A joyous child runs with a football.,A sad child runs with a football.,contradiction
+3465,A man preparing a white volkswagen to be towed by a AAA certified tow-truck.,A truck is going to tow an illegally parked white volkswagon.,neutral
+3466,A man preparing a white volkswagen to be towed by a AAA certified tow-truck because it got a parking ticket.,A truck is going to tow an illegally parked white volkswagon.,entailment
+3484,A man in formal wear is posing in front of a building.,the man is a farmer,neutral
+3483,A man in formal wear is posing in front of a building.,the man is in a dress,contradiction
+3489,A man hanging by a cable from the tower.,a guy is painting a picture,contradiction
+3488,A man is hanging by a cable from the tower painting a mural.,a guy is painting a picture,entailment
+3491,A baby is sitting down with his mouth open.,A child is waiting to be fed.,neutral
+3490,"A baby is sitting down with his mouth open, yawning after his meal.",A child is waiting to be fed.,contradiction
+3511,A baby falls asleep on a blanket outside with his stuffed animal.,A child is being fed with his mother's breasts.,contradiction
+3510,A baby nearly falls asleep on a blanket outside with his stuffed animal as his mom nurses him.,A child is being fed with his mother's breasts.,entailment
+3523,Little boy dressed in blue wearing cleats.,A little boy is learning how to use cleats.,neutral
+3522,Little boy dressed in blue wearing cleats for the first time.,A little boy is learning how to use cleats.,entailment
+3534,A man with a Mohawk hairstyle wears a backpack at a college campus.,A man is on the college campus.,entailment
+3533,A man with a Mohawk hairstyle wears a backpack at a college campus.,A man is on the biggest college campus.,neutral
+3538,"A person on a bmx bike, running a course.",A biker races over a dirt track.,entailment
+3535,"A person on a bmx bike, running a course outside.",A biker races over a dirt track.,neutral
+3574,Two men in hard hats listen to a man in a dress shirt talk.,The man in the dress shirt is talking to two workers.,entailment
+3571,Two men in hard hats listen to a man in a dress shirt talk.,The man in the dress shirt is talking to two old workers.,neutral
+3584,"A woman in a house wearing jeans and a sweater, is pour a drink into a glass.",A woman in a house is pouring liquid into a cup,entailment
+3581,"A woman in a house wearing jeans and a sweater, is pour a drink into a glass.",A woman in a house is pouring liquid into a pitcher.,contradiction
+3585,A row of birds is sitting in front of a gray cloud.,Birds are outside.,entailment
+3588,A row of birds is sitting in front of a gray cloud.,No Birds are outside.,contradiction
+3605,"A guy standing on a moving dirt bike while wearing blue, black and yellow.",the man is getting ready to jump off the dirt bike,neutral
+3607,"A guy standing on a moving dirt bike while wearing blue, black and yellow is getting ready to jump off the dirt bike.",the man is getting ready to jump off the dirt bike,entailment
+3615,A man in a navy blue jacket holding a tool in his dirty hand.,A man is working on a truck.,neutral
+3616,A man in a navy blue jacket holding a tool in his dirty hand while repairing a truck's breaks.,A man is working on a truck.,entailment
+3621,A black dog and a dog that is brown and white stand in the water.,Two dogs are in the water.,entailment
+3620,A black dog and a dog that is brown and white stand in the water.,Two dogs are in the mineral water.,neutral
+3625,"Older man standing next to a green, yellow and white taxi.",older man about to get into a taxi.,neutral
+3627,"Older man standing next to a green, yellow and white taxi before entering it.",older man about to get into a taxi.,entailment
+3634,A group of women dressed as characters from star treck.,A group of women are are wearing swim suits that are solid black.,contradiction
+3631,A group of short women dressed as characters from star treck.,A group of women are are wearing swim suits that are solid black.,neutral
+3639,"One man is sitting on top of a school bus, while another man, wearing a matching shirt, is standing inside.",A dog catches a frisbee.,contradiction
+3636,"One man is sitting on top of a school bus, while another man, wearing a matching shirt, is standing inside.",A dog catches a frisbee thrown by school bus man.,neutral
+3665,Young girl with a pink barrette in her hair playing the violin.,The girl is playing the violin.,entailment
+3666,Young girl with a pink barrette in her hair playing the violin.,The girl is playing Mozart on the violin.,neutral
+3670,This is a you boy with a skateboard,There is a girl riding her skateboard.,contradiction
+3673,This is a you boy with a skateboard,There is a girl riding her skateboard and a boy with a skateboard.,neutral
+3675,Three women in bright colors and headdresses are holding love message cards.,Some man is on the ground.,contradiction
+3676,Three women in bright colors and headdresses are holding love message cards next to a man on the surface.,Some man is on the ground.,neutral
+3698,A teenager hurtling over lawn chairs in a yard.,There are chairs.,entailment
+3697,A teenager hurtling over lawn chairs in a yard.,There are white chairs.,neutral
+3708,There is a group of five men in dark blue outfits and one is playing an accordion.,A lot of tall men,neutral
+3709,There is a group of five men in dark blue outfits and one is playing an accordion.,A lot of tall women.,contradiction
+3729,Men stand at the edge of a large hole in the street as cement is poured into the hole.,Men standing near the hole.,neutral
+3726,Men stand right at the edge of a large hole in the street as cement is poured into the hole.,Men standing near the hole.,entailment
+3734,A man in a colorful shirt speaks at a microphone.,A person's voice is amplified.,entailment
+3733,A man in a colorful shirt speaks at a microphone that is turned off.,A person's voice is amplified.,contradiction
+3749,An elderly nun handles knit items.,The nun is handling the situation of being a nun.,contradiction
+3745,An elderly nun handles knit items to sell at a craft fair.,The nun is handling the situation of being a nun.,neutral
+3754,Man in a blue coat holding a sign.,The man is holding a sign for his job.,neutral
+3751,Man in a blue coat holding a sign for his new job.,The man is holding a sign for his job.,entailment
+3760,A crowd of people watch a street performer do a trick with a fancy pogo stick.,A crowd of people outside.,entailment
+3764,A crowd of people watch a street performer do a trick with a fancy pogo stick.,A crowd of smiling people outside.,neutral
+3774,A black dog is running through the shallow edge of a large body of water.,A black dog is running in the water.,entailment
+3772,A black dog is running through the shallow edge of a large body of water.,A black dog is running in the spaceship with no water.,contradiction
+3792,A short-haired fairly young women is running in some type of race and is a man behind her running in the same race.,the man is actually checking out the womans butt,neutral
+3791,A short-haired fairly young women is running in some type of race and is a man behind her running in the same race and is oblivious to her beautiful bottom.,the man is actually checking out the womans butt,contradiction
+3800,Two old women making food.,Two women make food.,entailment
+3802,Two old women making food.,Two women make italian food.,neutral
+3811,Fuzzy dark gray dog running along a dirt path with weeds on the sides.,The dog is outside.,entailment
+3810,Fuzzy dark gray dog running along a dirt path with weeds on the sides.,The dog is outside at night.,neutral
+3815,"A man wearing a reddish beard, wife beater shirt, torn and dirty blue jeans, standing next to an aqua blue bench with a six pack of beer laying on its seat, and a young girl in a fuchsia pink shirt and striped pants, gazing up at him.",A man is about to head to a party,neutral
+3816,"A man wearing a reddish beard, wife beater shirt, torn and dirty blue jeans, standing next to an aqua blue bench with a six pack of beer laying on its seat is heading home to sleep, and a young girl in a fuchsia pink shirt and striped pants, gazing up at him.",A man is about to head to a party,contradiction
+3830,An archer releases his arrow while another awaits his turn.,The archer is watching his target.,neutral
+3833,An archer releases his arrow while another awaits his turn as he watches his target.,The archer is watching his target.,entailment
+3840,A woman in a white long-sleeve shirt is leaning against a sleeping man in a green plaid shirt to attempt to sleep while sitting in a bus.,The man is looking out the window.,neutral
+3844,A woman in a white long-sleeve shirt is leaning against a sleeping man in a green plaid shirt to attempt to sleep while sitting in a bus.,The man on the bus is looking out the window.,entailment
+3874,A guy on a skateboard doing a flip over a fire thing.,a guy doing flips,entailment
+3871,A guy on a skateboard doing a flip over a fire thing.,a guy doing flips outside,neutral
+3879,Workers in a factory watch a machine.,Workers contemplate their job security.,neutral
+3875,"Workers in a factory watch a machine, thinking about their job security.",Workers contemplate their job security.,entailment
+3880,a man wearing a yellow shirt and white hard hat stands inside a crevice between two rock faces.,A park ranger inspects a dangerous crevice where a hiker had been trapped.,neutral
+3884,a man wearing a yellow shirt and white hard hat stands inside a crevice between two rock faces whre no one had been trapped.,A park ranger inspects a dangerous crevice where a hiker had been trapped.,contradiction
+3888,Two people look over a terrace wall.,Two people are outside.,entailment
+3885,Two people look over a terrace wall at their neighbor.,Two people are outside.,neutral
+3894,"A man is wearing an apron, standing in the kitchen holding a plate.",The man is cooking a meel,neutral
+3893,"A man cooking a meal is wearing an apron, standing in the kitchen holding a plate.",The man is cooking a meel,entailment
+3895,Men race their bikes on a road.,Men in colorful uniforms are biking on the road.,neutral
+3896,Men in black race their bikes on a road.,Men in colorful uniforms are biking on the road.,contradiction
+3903,A man in glasses eating under a tree.,the guy eats under the tree,entailment
+3901,A man in glasses eating under a tree.,the guy eats a sandwich under the tree,neutral
+3920,A crowded day with many skiers and snowboarders on the slopes.,There are people on the slopes.,entailment
+3923,A crowded day with many skiers and snowboarders on the slopes.,There are people on the slopes at Mount Everest.,neutral
+3931,Four people rollerskating with spectators in the background.,People are rollerskating.,entailment
+3933,Four people rollerskating with spectators in the background.,People are rollerskating inside.,neutral
+3935,"Two girls, one asian and one white, are in white lab coats working on something from a yellow box.",The girls are in lab coats working on the contents of a yellow box.,entailment
+3938,"Two girls, one asian and one white, are in white lab coats working on something from a yellow box.",The girls are in lab coats and goggles working on the contents of a yellow box.,neutral
+3940,A middle-aged woman wearing a black sleeveless blouse applies mascara in a mirror.,The woman is preparing for a date.,neutral
+3941,A middle-aged woman wearing a black sleeveless blouse applies mascara in a mirror is staying home alone tonight.,The woman is preparing for a date.,contradiction
+3954,A woman is standing in front of a counter at a cafe.,a man robs a cafe,contradiction
+3952,A woman is standing in front of a counter at a cafe while it's getting robbed by a man.,a man robs a cafe,entailment
+3958,"A woman, dressed in old fashioned clothing sews a piece of material as she sits in a wooden chair besides a red brick building.",The woman is near a red building.,entailment
+3955,"A woman, dressed in old fashioned clothing sews a piece of material as she sits in a wooden chair besides a red brick building.",The woman is near a red government building.,neutral
+3964,A group of people are sitting outside on stone steps.,A group of people are standing,contradiction
+3963,A group of people are sitting outside on stone steps.,A group of people are sitting.,entailment
+3968,A man is sitting on the floor outside a door and his head on his chin.,The man sitting on the floor has just received bad news.,neutral
+3965,"A man is sitting on the floor outside a door and his head on his chin, learning he won the lottery.",The man sitting on the floor has just received bad news.,contradiction
+3972,A sandy brown dog is playing with a soccer ball outside.,A puppy running after a ball.,neutral
+3971,A sandy brown dog is playing with a soccer ball outside.,A puppy running after a soccer ball.,entailment
+3975,Two men in Germany jumping over a rail at the same time without shirts.,Two men jumping on the freeway.,contradiction
+3977,Two men in Germany jumping over a rail at the same time without shirts as cars go by.,Two men jumping on the freeway.,neutral
+3989,A rodeo clown hands out American flags.,The rodeo clown is running from the bull.,contradiction
+3987,A rodeo clown hands out American flags while running. ,The rodeo clown is running from the bull.,neutral
+3992,Women in a rock band perform on stage.,Some women have long hair.,neutral
+3990,Bald women in a rock band perform on stage.,Some women have long hair.,contradiction
+3999,"A man is standing in the doorway of a building containing a garage door painted with ""No Parking.",The man is in the city,neutral
+3995,"A man is standing in the doorway of a downtown building containing a garage door painted with ""No Parking"".",The man is in the city,entailment
+4000,Three men discuss business over beers at a bar.,They are waiting for their wives to call.,neutral
+4002,Three men discuss business over beers at a bar attempting to get away from their wives. ,They are waiting for their wives to call.,contradiction
+4022,A little boy sitting in front of a store in a somewhat run down neighborhood.,A boy sitting in front of a store in an old neighborhood.,entailment
+4024,A little boy sitting in front of a store in a somewhat run down neighborhood.,A boy sitting in front of a store in an old neighborhood in New York.,neutral
+4040,A child has fun with a blender in the kitchen.,A child uses a blender.,entailment
+4043,A child has fun with a blender in the kitchen.,"A bored and somewhat angry child uses a blender to make his very first margarita, which he hopes contains a real worm in the tequila.",neutral
+4058,A man with a surprised look on his face holds a large portfolio.,a woman in a suit sits confidently,contradiction
+4057,A man with a surprised look on his face holds a large portfolio that he thought he had lost.,a woman in a suit sits confidently,neutral
+4063,A man wearing a denim jacket taking a photograph.,A man wearing a jean jacket is taking a photo.,entailment
+4061,A man wearing a denim jacket taking a photograph.,A korean man wearing a jean jacket is taking a photo.,neutral
+4093,A man without a shirt is standing next to two other men in front of a large boat.,Guys by a boat.,neutral
+4090,A man without a shirt is standing next to two other men in front of a large boat.,Guys by a large boat.,entailment
+4096,A man is singing into a microphone.,A band member is playing the drums.,contradiction
+4097,A man is singing into a microphone while band plays.,A band member is playing the drums.,neutral
+4114,"Three children playing on swings in a small park, one little girl wearing pink has her stomach on the swing, a little boy wearing navy track pants and a yellow shirt is half on and half off the swing, and the last little boy is standing in front of the boy on the swing.",Silly humans playing,neutral
+4110,"Three silly children playing on swings in a small park, one little girl wearing pink has her stomach on the swing, a little boy wearing navy track pants and a yellow shirt is half on and half off the swing, and the last little boy is standing in front of the boy on the swing.",Silly humans playing,entailment
+4115,A group of children gathers together to watch a school play.,Some children are watching their friends perform in the holiday play.,neutral
+4119,A group of children gathers together to watch friends in a school holiday play.,Some children are watching their friends perform in the holiday play.,entailment
+4130,A woman with dark hair who is wearing an orange bikini lays out on a wicker chair.,A woman with dark hair is laying outside.,entailment
+4131,A woman with dark hair who is wearing an orange bikini lays out on a wicker chair.,A woman with dark brown hair is laying outside.,neutral
+4135,"Rocks surround the feet of an adventurer, burrowing into an underground cave.",A person standing at a cave surrounded by rocks outdoors.,entailment
+4139,"Rocks surround the feet of an adventurer, burrowing into an underground cave.",A person standing at a cave surrounded by limestone rocks outdoors.,neutral
+4144,"Three people, the one in the center has a bag, are crossing a busy street.",Three people cross a street.,entailment
+4142,"Three people, the one in the center has a bag, are crossing a busy street.",Three people cross a street at an intersection.,neutral
+4154,A person covered in soapy water is getting cleaned off.,Someone is washing up with water and soap.,entailment
+4153,A person covered in soapy water is getting cleaned off.,Someone is washing up with hot water and soap.,neutral
+4155,A fireman standing on top of a firetruck.,A man stands on top of a truck.,entailment
+4156,A fireman standing on top of a firetruck.,A man stands on top of a truck every day.,neutral
+4167,A man jumping a bicycle over a dirt path surrounded by trees.,A man jumping a bicycle over a dirt path surrounded by trees.,entailment
+4166,A man jumping a bicycle over a dirt path surrounded by trees.,A man jumping a bicycle over a dirt path surrounded by fir trees.,neutral
+4170,A man is in a tree holding a coconut,The man is outdoors.,entailment
+4173,A man is in a tree holding a coconut,The man is outdoors at night.,neutral
+4176,A small boy in a blue shirt splashes water in a baby pool outside.,A boy is outside.,entailment
+4175,A small boy in a blue shirt splashes water in a baby pool outside.,A short boy is outside.,neutral
+4189,Someone is climbing vertically a wall of ice.,a wall of ice is being climbed,entailment
+4185,Someone is climbing vertically a wall of ice.,a tall wall of ice is being climbed,neutral
+4194,"Two people are sitting on a bench, and one women is standing by them.",The bench is empty,contradiction
+4191,"Two people are sitting on a bench, and one women is standing by them.",The bench next to them is empty,neutral
+4199,A man in a white shirt is fixing the tire of a crimson bike.,A tall human fixing,neutral
+4196,A tall man in a white shirt is fixing the tire of a crimson bike.,A tall human fixing,entailment
+4201,Boy dressed in black is doing a skateboarding jump with a crowd watching.,A tall human in black.,neutral
+4200,A towering boy dressed in black is doing a skateboarding jump with a crowd watching.,A tall human in black.,entailment
+4215,A man in a blue shirt and black shorts has an orange sun visor on his head.,The man is at a soccer game,neutral
+4216,A man on a swim raft in a blue shirt and black shorts has an orange sun visor on his head.,The man is at a soccer game,contradiction
+4220,A woman reaching for an item on a table.,A woman reaches for something on the table.,entailment
+4221,A woman reaching for an item on a table.,A woman reaches for something on the table that is heavy.,neutral
+4243,A young woman is walking with shopping bags in Hollywood.,A woman walking,entailment
+4241,A young woman is walking with shopping bags in Hollywood.,A woman walking  in Hollywood with shopping bags is uncommon.,contradiction
+4254,Two little wiener dogs are running on the grass carrying a red ball between them.,Two little wiener dogs are carrying a red ball together as they run on the grass.,entailment
+4251,Two little wiener dogs are running on the wet grass carrying a red ball between them.,Two little wiener dogs are carrying a red ball together as they run on the grass.,neutral
+4264,A man is walking down a deserted street.,The street is empty but for one man,entailment
+4263,A man is walking down a deserted street.,The street is empty but for one tall man,neutral
+4269,Two men in army uniforms stand next to a woman.,Two men are near a woman.,entailment
+4265,Two men in army uniforms stand next to a woman.,Two tall men are near a woman.,neutral
+4270,A man stands in the distance on the ocean while he stands on a small boat.,The boat is painted blue.,neutral
+4273,A man stands in the distance on the ocean while he stands on a small black boat.,The boat is painted blue.,contradiction
+4276,Trash litters the ground.,There is trash on the ground.,entailment
+4277,Trash litters the ground.,There is no trash on the ground.,contradiction
+4291,An African American woman carrying yellow fruit on her head walking away from a building.,The woman is walking,entailment
+4292,An African American woman carrying yellow fruit on her head walking away from a building.,The woman is sitting.,contradiction
+4309,Young boy standing next to water casting his fishing rod with others next to him.,A young boy is fishing.,entailment
+4305,Young boy standing next to water casting his fishing rod with others next to him.,A young boy is fishing for trout.,neutral
+4319,Businessman with briefcase walks up beautiful staircase.,Businessman with a briefcase walks up a staircase.,entailment
+4317,Businessman with briefcase walks up beautiful staircase.,Businessman with a briefcase walks up a staircase to his office.,neutral
+4326,Two men hanging out together.,Two men play videogames together,neutral
+4328,"Two men hanging out together, playing playstation.",Two men play videogames together,entailment
+4334,A group of children wait in two lines outdoors.,Some children are waiting in line.,entailment
+4332,A group of children wait in two lines outdoors.,Some children are waiting in line for food.,neutral
+4338,"Two men in red shirts race on bicycles, while others watch.",men on bikes,entailment
+4339,"Two men in red shirts race on bicycles, while others watch.",men on mountain bikes,neutral
+4351,A brown boat is packed with goods and people.,There is a bus on the boat.,contradiction
+4350,"A brown boat is packed with buses, goods and people.",There is a bus on the boat.,entailment
+4356,"A young woman in a blue shirt stands, holding a young girl in a denim dress.",the woman is sad,neutral
+4355,"A young woman in a blue shirt stands, holding a young girl in a denim dress.",the woman is wearing a shirt,entailment
+4363,Asian man standing under mailbox.,Man sweeping the sidewalk.,contradiction
+4361,Asian man standing under mailbox while sweeping the sidewalk.,Man sweeping the sidewalk.,entailment
+4368,"Two women, one blond and one brunette, eating candy.",Two woman eating hotdogs.,contradiction
+4369,"Two women, one blond and one brunette, eating candy-covered hotdogs.",Two woman eating hotdogs.,entailment
+4379,Three guys sitting on rocks looking at the scenery.,The people are outside.,neutral
+4376,Three guys sitting outdoors on rocks looking at the scenery.,The people are outside.,entailment
+4384,"Two men, dressed in black, are standing on a sidewalk in an urban area while one lights a cigarette.",Two men are standing on the sidewalk.,entailment
+4382,"Two men, dressed in black, are standing on a sidewalk in an urban area while one lights a cigarette.",Two Asian men are standing on the sidewalk.,neutral
+4386,"Two men play in a band, one on electric guitar and the other on drums, on stage in front of a crowd.",Two men are playing music fora group of people.,entailment
+4389,"Two men play in a band, one on electric guitar and the other on drums, on stage in front of a crowd.",Two men are playing music fora group of people for money.,neutral
+4419,A man and woman stand at the altar to say their vows and get married.,A couple is getting married.,entailment
+4418,A man and woman stand at the altar to say their vows and get married.,A couple is getting married during the summer.,neutral
+4420,The girl does freestyle Frisbee tricks with her dog at the baseball park.,A girl and her dog take a nap in the grass.,contradiction
+4424,The girl does freestyle Frisbee tricks with her dog at the baseball park and then takes a nap in the grass.,A girl and her dog take a nap in the grass.,entailment
+4435,Aid big guy wearing an orange jumpsuit is talking to a skinny lady who's dressed up with a long skirt is standing on the freeway looking at the red Motorcycle that crash,A man and woman stand on the freeway near a motorcycle crash.,entailment
+4436,Aid big guy wearing an orange jumpsuit is talking to a skinny lady who's dressed up with a long skirt is standing on the freeway looking at the red Motorcycle that crash,A young man and woman stand on the freeway near a motorcycle crash .,neutral
+4444,Four people are strapped into some kind of amusement park ride.,Four people are having some fun.,entailment
+4440,Four people are strapped into some kind of amusement park ride.,Four people are having some fun on a merry-go-round.,neutral
+4448,A boy wearing a life vest suspended in the air.,The picture is of a boy caught in the middle of jumping into the cool water of the lake near his home.,neutral
+4446,A boy wearing a life vest suspended in the air leaps into a cool lake by his house.,The picture is of a boy caught in the middle of jumping into the cool water of the lake near his home.,entailment
+4454,"Two old men, one holding a bag and one wearing a hat, walk down a leaf-covered path through the trees.",The old friends walk together through the arboretum.,neutral
+4452,"Two old men, one holding a bag and one wearing a hat, walk down a leaf-covered path through the trees.",The old friends walk slowly together through the arboretum.,contradiction
+4459,A little boy in a yellow tee-shirt is taking a bite of a banana.,A little boy in yellow relaxes with some food.,neutral
+4455,A little boy in a yellow tee-shirt is relaxing and taking a bite of a banana.,A little boy in yellow relaxes with some food.,entailment
+4489,A girl is outside painting a picture of a lady on the side of the wall using chalk,The girl creates outdoor art.,entailment
+4486,A girl is outside painting a picture of a lady on the side of the wall using chalk,The girl creates colorful outdoor art.,neutral
+4494,The gentleman is quite well groomed.,The man is good looking.,entailment
+4490,The gentleman is quite well groomed.,The man is good looking to his co-workers.,neutral
+4499,A man and two women eating and drinking in a kitchen.,The man and two woman are indoors,entailment
+4495,A man and two women eating and drinking in a kitchen.,The man and two attractive woman are indoors,neutral
+4525,A crowd of people in casual dress cheer at the camera from behind a barrier.,a crowd of people cheer from behind a barrier,entailment
+4529,A crowd of people in casual dress cheer at the camera from behind a barrier.,A crowd of young people cheer loudly  from behind a barrier.,neutral
+4540,A shirtless toddler staring out the window.,A little toddler is walking with his mother towards the park.,contradiction
+4542,A shirtless toddler stops staring out the window and heads out with his mom.,A little toddler is walking with his mother towards the park.,neutral
+4548,Man in green shirt and black pants is jumping in the laundry room.,A man is jumping on a table in the laundry room.,neutral
+4546,Man in a green shirt and black pants is jumping on the iron table in the laundry room.,A man is jumping on a table in the laundry room.,entailment
+4551,Two young women are walking and having a conversation.,The women are walking to a friend's house.,neutral
+4550,Two young women are walking to church and having a conversation.,The women are walking to a friend's house.,contradiction
+4559,A man is carrying a plastic case over his head amongst a group of people.,The plastic case contains money.,neutral
+4556,A man is carrying a plastic case that contains money over his head amongst a group of people.,The plastic case contains money.,entailment
+4574,man being thrown off horse in a rodeo,A brown horse throws off a man.,neutral
+4572,man being thrown off brown horse in a rodeo,A brown horse throws off a man.,entailment
+4579,Four football players raise their helmets at the game.,The guys here know the rules of football.,entailment
+4576,Four football players raise their helmets at the game.,The defense guys here know the rules of football.,neutral
+4633,Two kids play hockey on a pond.,Two kids are playing on a frozen pond.,neutral
+4630,Two kids play hockey on a frozen pond.,Two kids are playing on a frozen pond.,entailment
+4639,A lady dressed in black wearing a matching hat stands beside a tree and a body of water.,A lady wearing a bathing suit stands beside a tree and body of water.,contradiction
+4635,A lady dressed in black bathing suit wearing a matching hat stands beside a tree and a body of water.,A lady wearing a bathing suit stands beside a tree and body of water.,entailment
+4650,woman in white walking on the street.,a woman in white walks outside,entailment
+4652,woman in white walking on the street.,a woman in white pants walks outside,neutral
+4666,Three men in an art gallery posing for the camera.,Paintings are nearby.,neutral
+4665,Three men in an empty art gallery posing for the camera.,Paintings are nearby.,contradiction
+4680,The lady is watching something she does not like.,The lady does not like what she sees.,entailment
+4684,The lady is watching something she does not like on television.,The lady does not like what she sees.,neutral
+4694,Two children are playing with a soccer ball on grass.,A soccer ball is being played with by a couple kids.,entailment
+4693,Two children are playing with a soccer ball on grass.,A soccer ball is being played with by a couple kids on a sunny day.,neutral
+4695,An old woman in a cowboy hat smokes a cigarette.,The old lady is ten feet tall.,contradiction
+4697,An old woman in a cowboy hat smokes a cigarette. ,The old lady is ten feet tall.,neutral
+4704,A black dog is running through a swampy area with tall reeds.,The cat sits in a window.,contradiction
+4702,"A black dog is running through a swampy area with tall reeds, while a cat sits nearby.",The cat sits in a window.,neutral
+4707,Many covered bicycle drivers lined up.,People on bikes form a line.,entailment
+4705,Many covered bicycle drivers lined up.,People on bikes form a twisting line.,neutral
+4719,Two white dogs walking in the snow.,Two dogs in the snow,entailment
+4717,Two white dogs walking in the snow.,Two dogs in the snow are leading a sledge.,neutral
+4721,Two women dressed in animal prints are playing percussion instruments.,The women are playing instruments.,entailment
+4724,Two women dressed in animal prints are playing percussion instruments.,The women are playing heavy instruments.,neutral
+4728,A man with a red shirt and white shorts is walking near a man with a white shirt and black pants down a busy street.,Two men are walking to work.,neutral
+4729,A man with a red shirt and white shorts is walking near a man with a white shirt and black pants down a busy street.,Two men are walking to work down a busy street.,entailment
+4732,Two men are playing soccer.,The men are on the same team.,neutral
+4730,Two men are playing soccer against each other.,The men are on the same team.,contradiction
+4740,Two women sitting at a table in a restaurant.,People sitting down,entailment
+4743,Two women sitting at a table in a restaurant.,People sitting down to eat.,neutral
+4752,A bird splashing in a puddle,The bird is playing with another bird.,neutral
+4753,A bird splashing alone in a puddle,The bird is playing with another bird.,contradiction
+4755,A child is running away from a plastic pool and an adult on a rural setting.,A baby is asleep in a crib on the subway.,contradiction
+4756,A child is running away from a plastic pool and an adult on a rural setting while a baby is asleep in a crib.,A baby is asleep in a crib on the subway.,neutral
+4775,A man wearing all black with a cap on his head is spearing something on a wall.,Ther is a man wearing all black clothing.,entailment
+4778,A man wearing all black with a cap on his head is spearing something on a wall.,Ther is a mysterious man wearing all black clothing.,neutral
+4784,A woman in a white shirt is sitting at a table in a nice restaurant.,the woman is sitted,entailment
+4782,A woman in a white shirt is sitting at a table in a nice restaurant.,the woman is standing.,contradiction
+4807,A couple sitting together at a small circular table in an older looking rustic building.,There are two people near a building,entailment
+4806,A couple sitting together at a small circular table in an older looking rustic building.,There are two people near a  bus.,contradiction
+4814,The guy wearing sunglasses and a hat is singing into a microphone.,The guy is singing.,entailment
+4810,The guy wearing sunglasses and a hat is singing into a microphone.,The guy is singing an original song.,neutral
+4833,A woman off her bike looking at the area.,woman dropped ring,neutral
+4831,A woman dropped scarf as she is getting off her bike looking at the area. ,woman dropped ring,contradiction
+4841,"A man with a beard sleeps in a chair, computer banks behind him.",A man sleeps in front of computers.,entailment
+4842,"A man with a beard sleeps in a chair, computer banks behind him.",A man sleeps in front of top secret computers.,neutral
+4852,"A man in jeans, a t-shirt, and a baseball cap is lying down on a wooden floor.",There is a man lying on the floor.,entailment
+4853,"A man in jeans, a t-shirt, and a baseball cap is lying down on a wooden floor.",There is a man lying on the floor in a cabin.,neutral
+4857,Two asian females go walking.,Two people are walking.,entailment
+4859,Two asian females go walking.,Two people are walking to church,neutral
+4871,A man covered with a red shirt and wearing sunglasses is relaxing on a porch with a newspaper.,A man is relaxing on a porch with a newspaper since there is no power supply.,neutral
+4874,A man covered with a red shirt and wearing sunglasses is relaxing on a porch with a newspaper since there is no power supply.,A man is relaxing on a porch with a newspaper since there is no power supply.,entailment
+4894,A construction worker leaning against a post.,A construction worker is diligently hammering some nails.,contradiction
+4893,A construction worker leaning against a post using his hammer.,A construction worker is diligently hammering some nails.,neutral
+4916,A man in a blue shirt smiles at a baby he's carrying in a sling.,The man is wearing a shirt.,entailment
+4918,A man in a blue shirt smiles at a baby he's carrying in a sling.,The man is wearing a t-shirt.,neutral
+4920,A man with parted hair and wearing glasses is seated outdoors on a bench where he is reading.,A man wearing glasses reads a book on an outdoor bench.,entailment
+4921,A man with parted hair and wearing glasses is seated outdoors on a bench where he is reading.,A man wearing glasses reads a non-fiction book on an outdoor bench.,neutral
+4929,Two dogs run down the road.,The animals are running.,entailment
+4926,Two dogs run down the road.,The animals are running after food.,neutral
+4935,Young boy flying a toy airplane in an open field of hay.,The little boy was flying his toy airplane in the open field.,entailment
+4937,Young boy flying a toy airplane in an open field of hay.,The little boy was flying his friend's toy airplane in the open field.,neutral
+4950,A older man holds an object and is looking at two young girls that sit across from him at a table that is outside.,A group rests at a table.,entailment
+4954,A older man holds an object and is looking at two young girls that sit across from him at a table that is outside.,A group rests at a dinner table.,neutral
+4964,Two people sitting in hats and shades.,Two people are sitting naked.,contradiction
+4962,Two people sitting are sitting naked  in hats and shades.,Two people are sitting naked.,entailment
+4969,one male and one female playing instruments in the street.,The two people are inside a house.,contradiction
+4965,one male and one female are playing instruments in the house on the street.,The two people are inside a house.,entailment
+4971,There are two teams competing in a women's volleyball game.,Many women are playing a volleyball match.,entailment
+4974,There are two teams competing in a women's volleyball game.,Many women are playing a beach volleyball match.,neutral
+4989,Two boys throw bowling balls down lane.,Two boys are bowling with two girls.,neutral
+4987,Two pairs of boys and girls throw bowling balls down lane.,Two boys are bowling with two girls.,entailment
+4997,Female sign holders take refuge under umbrellas during a rainstorm.,A group of people are singing.,contradiction
+4998,Female sign holders take refuge and sing under umbrellas during a rainstorm.,A group of people are singing.,entailment
+5005,A group of men in safety suits are on a boat near a bridge.,The boat was sinking.,contradiction
+5007,A group of men in safety suits are on a damaged boat near a bridge.,The boat was sinking.,neutral
+5014,A band is performing in front of an audience.,The people are playing music.,entailment
+5013,A band is performing in front of an audience.,The people are playing jazz music.,neutral
+5015,An Asian couple are getting married while four people spectate.,The couple is dressed in classic wedding attire.,neutral
+5017,An Asian couple are getting married in a classical attire while four people spectate.,The couple is dressed in classic wedding attire.,entailment
+5034,One of the members of KISS playing a white electric guitar in front of a black background.,A musician with a well-known group is using their musical skills.,entailment
+5033,One of the members of KISS playing a white electric guitar in front of a black background in the afternoon.,A musician with a well-known group is using their musical skills.,neutral
+5039,A man is helping someone put on a fancy robe.,A man is getting someone else ready for a performance.,neutral
+5038,A man is helping someone put on a fancy robe for their performance.,A man is getting someone else ready for a performance.,entailment
+5041,A dog carries a large stick in its mouth over the grass.,An animal is carrying something outdoors.,entailment
+5043,A dog carries a large stick in its mouth over the dead grass. ,An animal is carrying something outdoors.,neutral
+5047,A man in a dark shirt and glasses holds a microphone.,There is a male wearing glasses.,entailment
+5048,A man in a dark shirt and glasses holds a microphone.,There is a male wearing red glasses.,neutral
+5051,"A soccer player numbered 24, wearing a yellow shirt, blue shorts, and blue socks, takes to the vibrant green field.",A soccer player is wearing the number 24,entailment
+5053,"A soccer player numbered 24, wearing a yellow shirt, blue shorts, and blue socks, takes to the vibrant green field.",A soccer player is wearing the number 23.,contradiction
+5059,Dogs race each other on a muddy track.,The track is muddy,entailment
+5057,Dogs race each other on a muddy track.,The track is paved.,contradiction
+5062,Two men hiking in the snowy wilderness.,its enjoyable activity,neutral
+5060,Two laughing men hiking in the snowy wilderness.,its enjoyable activity,entailment
+5080,Six children are wearing burlap sacks and having a potato sack race.,Six children are sitting in a circle and listening to a story.,contradiction
+5084,Six children are wearing burlap sacks and sitting in a circle listening to a story after having a potato sack race.,Six children are sitting in a circle and listening to a story.,entailment
+5094,A man and a woman waiting to cross the road.,Two people crossing the road.,contradiction
+5091,A man and a woman are waiting to cross the road to get to their car.,Two people crossing the road.,entailment
+5108,A little girl in a dress and boots is holding a lolly pop and posing next to a fence.,A little girl is posing near a fence.,entailment
+5109,A little girl in a dress and boots is holding a lolly pop and posing next to a fence.,A little girl is posing near a chained fence.,neutral
+5124,A toddler being helped out of a pool.,The youngster has finished his swimming lesson.,neutral
+5121,A toddler being helped out of a pool after completing his swimming lesson.,The youngster has finished his swimming lesson.,entailment
+5138,A man wearing a cap peeling a banana.,The man is holding fruit.,entailment
+5137,A man wearing a cap peeling a banana.,The man is holding a tasty fruit.,neutral
+5144,A young woman stoops to feed a small dog on a brick-paved street.,A young woman feeds a homeless dog.,neutral
+5142,"A young woman stoops to feed a small, homeless dog on a brick-paved street.",A young woman feeds a homeless dog.,entailment
+5145,A little boy is crying on a playground and a little is riding a toy bike.,There are two children in this picture.,entailment
+5148,A little boy is crying on a playground and a little is riding a toy bike.,There are two children in this picture playing soccer.,contradiction
+5159,A man is slightly jumping in the air while holding a tennis racket.,A man in the air with a tennis racket.,entailment
+5158,A man is slightly jumping in the air while holding a tennis racket.,A man jumps in the air with a black tennis racket.,neutral
+5185,A toddler is riding a plastic scooter.,A child is playing on his toy.,entailment
+5186,A toddler is riding a plastic scooter.,A large child is playing on his toy.,neutral
+5209,A boy points.,The boy pointed.,entailment
+5205,A boy points.,The boy pointed at a man.,neutral
+5215,A little boy is smiling as he splashes in some water and sits inside a couple of red and blue floating devices.,A boy is playing with water.,entailment
+5217,A little boy is smiling as he splashes in some water and sits inside a couple of red and blue floating devices.,A boy is playing with ocean water.,neutral
+5220,Two female children are in a bath together.,the girls are scrubbing each other,neutral
+5223,Two female children are in a bath together hugging each other.,the girls are scrubbing each other,contradiction
+5231,Pitcher in a baseball game wearing a white 34 uniform getting ready to throw the ball.,The pitcher playing baseball was ready to throw the ball.,entailment
+5232,Pitcher in a baseball game wearing a white 34 uniform getting ready to throw the ball.,The star pitcher playing baseball was ready to throw the ball.,neutral
+5238,A muscular man with a multicolored mohawk shows off his physique.,The man just finished a workout at the gym,neutral
+5235,A muscular man with a multicolored mohawk shows off his physique after his workout at the gym.,The man just finished a workout at the gym,entailment
+5248,A little boy in blue is running through a pile of brown leaves.,boy playing in the fall,neutral
+5246,A little boy in blue is running through a pile of brown leaves.,boy playing in the snow.,contradiction
+5250,Man wearing a black and red striped shirt taking a photo next to a lion statue.,The man is posing next to a stone lion.,neutral
+5252,Man wearing a black and red striped shirt taking a photo next to a stone lion statue.,The man is posing next to a stone lion.,entailment
+5259,"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope.",a man competes in a rope pulling contest,neutral
+5257,"A man with a beard, wearing a red shirt with gray sleeves and work gloves, pulling on a rope in a rope pulling contest.",a man competes in a rope pulling contest,entailment
+5284,"A woman with brown hair is being lifted from her brown seat after being dunked in the water, with people looking on.",A woman is participating in a dunk tank activity,entailment
+5281,"A woman with brown hair is being lifted from her brown seat after being dunked in the water, with people looking on.",A woman is participating in a charity dunk tank activity,neutral
+5287,A group of students dressed in sweatshirts and jackets head towards the right.,A kindergarten class is walking to recess.,neutral
+5289,A group of high school students dressed in sweatshirts and jackets head towards the right.,A kindergarten class is walking to recess.,contradiction
+5292,An oriental woman is handling a tray of fruit and smiling while surrounded by an array of similar trays of fruit in a colorful display.,"A woman is carrying some fruit on a tray, surrounded by a display of fruit",entailment
+5291,An oriental woman is handling a tray of fruit and smiling while surrounded by an array of similar trays of fruit in a colorful display.,"A woman is carrying some unripe fruit on a tray, surrounded by a display of fruit",neutral
+5300,A man in a blue jacket lifts a child dressed in red out boat crowded with people,A man lifts a child from the boat.,entailment
+5301,A man in a blue jacket lifts a child dressed in red out boat crowded with people,A large man lifts a child from the boat.,neutral
+5309,A man is making his girlfriend laugh by playing with his nose.,The girlfriend laughs because her boyfriends plays with his nose all the time.,neutral
+5305,A man is making his girlfriend laugh by playing with his nose for the first time.,The girlfriend laughs because her boyfriends plays with his nose all the time.,contradiction
+5322,The two friends are laughing and having a good time.,Two people are laughing.,entailment
+5321,The two friends are laughing and having a good time.,Two comic people are laughing.,neutral
+5327,A singer and her band are performing on stage in a club.,A band is performing on the surface of the sun.,contradiction
+5326,A singer and her band are performing on stage in a club on a surface in our galaxy.,A band is performing on the surface of the sun.,neutral
+5349,A medical team is performing a surgery.,the medical team is performing a sex change,neutral
+5347,A medical team is performing a knee replacement surgery.,the medical team is performing a sex change,contradiction
+5386,Children being show how things work.,There are children in a factory being shown how things work.,neutral
+5389,Children being show how things work in a factory.,There are children in a factory being shown how things work.,entailment
+5396,"There is a group of people, and a mother putting hearing protection in her son's ears out in a field by and electrical tower.",A group of people holded name plates in their hands.,contradiction
+5398,"There is a group of people holding name plates, and a mother putting hearing protection in her son's ears out in a field by and electrical tower.",A group of people holded name plates in their hands.,entailment
+5406,A black and white dog looking up.,The dog is looking at the ball in the air.,neutral
+5409,A black and white dog looking up at a ball.,The dog is looking at the ball in the air.,entailment
+5419,A group of people are laying in the grass under an umbrella.,People laying in the grass in the rain.,neutral
+5416,A group of people are laying in the grass under an umbrella braving the storm.,People laying in the grass in the rain.,entailment
+5422,Man in all white clothing washing the windows on the outside of a chinese restaurant.,The restaurant's windows are being cleaned.,entailment
+5421,Man in all white clothing washing the windows on the outside of a chinese restaurant.,The restaurant's windows are being cleaned using the cheapest industrial cleaner the company could afford.,neutral
+5425,A man wearing a camouflage hat and sunglasses reading a book on a black metal bench.,The man is reading a book on the bench.,entailment
+5427,A man wearing a camouflage hat and sunglasses reading a book on a black metal bench.,The man is reading a book on the bench and eating tuna.,neutral
+5434,"Crowds of people walking down street, couple in foreground with umbrella.",A couple stands together under an umbrella.,entailment
+5433,"Crowds of people walking down street, couple in foreground with umbrella.",A couple stands together under an umbrella holding hands.,neutral
+5444,A boy with a yellow shirt and light brown shorts is posing with a long dipping spoon in each hand.,The boy is wearing yelow,entailment
+5442,A boy with a yellow shirt and light brown shorts is posing with a long dipping spoon in each hand.,The boy is wearing a black shirt.,contradiction
+5446,A young boy sitting on a blue toilet.,A child sitting on a toilet,entailment
+5445,A young and tall boy sitting on a blue toilet.,A child sitting on a toilet,neutral
+5459,man with apron sitting at a table outside a store and another man walking with a luggage.,A man in an apron sitting near another man.,entailment
+5458,man with apron sitting at a table outside a store and another man walking with a luggage.,A tall man in an apron sitting near another man.,neutral
+5463,The two hockey players are down on the ice.,The players are getting ready for a game.,neutral
+5461,The two hockey players are down on the ice only to get their photos taken.,The players are getting ready for a game.,contradiction
+5474,A standing man holds a microphone in front of a man holding a guitar.,A man is holding a microphone with another man.,entailment
+5471,A standing man holds a microphone in front of a man holding a guitar.,A man is holding a wireless microphone with another man.,neutral
+5477,A man sitting on the left near a man walking along the side of a street with colorful buildings.,A tall human sitting,neutral
+5476,A tall man sitting on the left near a man walking along the side of a street with colorful buildings.,A tall human sitting,entailment
+5481,Five people are paddling a kayak in the ocean with the city behind them.,A group of friends are kayaking away from the city.,neutral
+5484,Five people are paddling a kayak in the ocean with the city far behind them.,A group of friends are kayaking away from the city.,entailment
+5488,Two ladies are walking across the street laughing.,Two women are moving across the street.,entailment
+5486,Two ladies are walking across the street laughing.,Two women are moving across the busy street.,neutral
+5514,A man in a blue shirt is dancing with a female in a white dress.,The man and women are dancing.,entailment
+5510,A man in a blue shirt is dancing with a female in a white dress.,The elderly man and elderly women are dancing.,neutral
+5515,Young people are standing in the store.,The people are looking for the exits.,neutral
+5518,Young people are standing in the store looking for a way out.,The people are looking for the exits.,entailment
+5524,Woman wearing a blue shirt holding some plants.,The woman is skydiving.,contradiction
+5521,Woman wearing a blue shirt skydiving while holding some plants.,The woman is skydiving.,entailment
+5530,"Young boy wearing waders standing on a dock fishing, other people are in the background.",A boy fishes on a dock as his dad looks on.,neutral
+5531,"Young boy wearing waders standing on a dock fishing while his dad watches, other people are in the background.",A boy fishes on a dock as his dad looks on.,entailment
+5539,A woman holding a water bottle is running on the beach.,A woman running outdoors.,neutral
+5535,A woman holding a water bottle is running on the beach. ,A woman running outdoors.,entailment
+5561,People painting each others arms bright colors.,There are people brightening up each others' arms with paint.,entailment
+5563,People painting each others arms bright colors.,There are people brightening up each others' arms with red paint.,neutral
+5574,Three men in a small boat are being lowered toward the water.,Three men prepare for a fishing expedition.,neutral
+5570,Three men in a small boat are being lowered toward the water are getting ready to escape the island.,Three men prepare for a fishing expedition.,contradiction
+5590,Four men in uniform are rowing down a river with people watching on the shore.,The four men are wearing uniforms.,entailment
+5591,Four men in uniform are rowing down a river with people watching on the shore.,The four men are wearing black uniforms.,neutral
+5601,A boy in a blue sweatshirt playing Frisbee with two black dogs.,a boy plays frisbee with two cats,contradiction
+5603,A boy in a blue sweatshirt playing Frisbee with two black dogs.,A boy plays frisbee with two healthy dogs.,neutral
+5607,A man with sunglasses and earphones is on a city street holding an mp3 player in his hand.,The man is traveling on a street.,neutral
+5608,A man with sunglasses and earphones is traveling on a city street holding an mp3 player in his hand.,The man is traveling on a street.,entailment
+5626,A group of opposing players are in the middle of a rugby game.,The first game of the rugby season.,neutral
+5629,A group of opposing players are in the middle of a rugby game.,This is the first game of the rugby season.,entailment
+5639,A woman riding a scooter is in front of many other people riding scooters down the street.,A woman is riding a red scooter while leading many others on black scooters.,neutral
+5636,A woman riding a scooter is in front of many other people riding pink scooters down the street.,A woman is riding a red scooter while leading many others on black scooters.,contradiction
+5659,A man kneeling on the street in front of a graffiti laden car and some poster boards with artwork on them.,A man is near graffiti.,entailment
+5658,A man kneeling on the street in front of a graffiti laden car and some poster boards with ugly artwork on them.,A man is near graffiti.,neutral
+5670,Two young children working together to operate a bicycle.,they are outside,neutral
+5671,Two young children working together to operate a bicycle.,they are working together,entailment
+5709,Chairs have been placed in front of a building.,Chairs in front of a building.,entailment
+5707,Chairs have been placed in front of a building for outside dining.,Chairs in front of a building.,neutral
+5716,A black dog playfully bits another dog in a living room setting,Two dogs are in a living room playing with each other.,entailment
+5719,A black dog playfully bits another dog in a living room setting,Two dogs are in a living room playing with each other while a man sleeps.,neutral
+5727,A man in silver car talking on cellphone and another man standing on sidewalk.,The man in the silver car is explaining the accident to his insurance agent.,neutral
+5725,A man in silver car talking to his mom on cellphone and another man standing on sidewalk.,The man in the silver car is explaining the accident to his insurance agent.,contradiction
+5734,"A man bows his head in prayer with another, as a third looks on.",a man prays with another man,entailment
+5732,"A man bows his head in prayer with another, as a third looks on.",a man prays with another man in church.,neutral
+5735,A young man preparing to rollerblade.,a man is preparing dinner,contradiction
+5736,A young man preparing to rollerblade is preparing dinner.,a man is preparing dinner,entailment
+5748,Two girls with their arms holding a girl with a blue shirt and black belt around her upper body.,People holding a person,entailment
+5746,Two girls with their arms holding a girl with a blue shirt and black belt around her upper body.,People holding a toy doll.,contradiction
+5754,A group of people drinking and talking,Some people are outside running a marathon.,contradiction
+5752,A group of people drinking and talking as marathon racers go past trees.,Some people are outside running a marathon.,entailment
+5759,A restaurant worker wearing an orange shirt putting ketchup and mustard on sandwich bread.,Everybody is washing dishes.,contradiction
+5758,A restaurant worker wearing an orange shirt putting ketchup and mustard on white sandwich bread.,Everybody is washing dishes.,neutral
+5774,Man puts legs up in air while riding bike.,A man is putting his legs in the air.,entailment
+5773,Man puts legs up in air while riding bike.,A man is putting his legs in the air for a trick.,neutral
+5779,Ride with a model biplane.,A model biplane is swimming in the lake.,contradiction
+5775,Ride with a swimming model biplane.,A model biplane is swimming in the lake.,entailment
+5784,A man in a sweatshirt and jeans is riding a bicycle holding some long thin planks of wood,a man is riding a bike,entailment
+5781,A man in a sweatshirt and jeans is riding a bicycle holding some long thin planks of wood,A man is riding a mountain bike.,neutral
+5785,Man with facial hair wearing red and white Palestinian style headscarf.,the man is from Palestinan,neutral
+5787,Man from Germany with facial hair wearing red and white Palestinian style headscarf.,the man is from Palestinan,contradiction
+5790,A child dressed as Spiderman ringing a doorbell.,The child is trick-or-treating.,neutral
+5792,A child dressed as Spiderman ringing a doorbell.,The child is trick-or-treating as Spiderman.,entailment
+5810,"The man dressed in black racing gear, is leaning into a sharp turn on his motorcycle.",The man dressed in black racing gear is on his motorcycle.,entailment
+5813,"The man dressed in black racing gear, is leaning into a sharp turn on his motorcycle.",The young man dressed in black racing gear is on his motorcycle.,neutral
+5815,"Two young children riding a bus, one is holding a bottle and the other is holding a can.","One of the children is drinking grape soda, the other is drinking dr. pepper.",neutral
+5817,"Two young children riding a bus, one is holding a bottle and the other is holding a can.","One of the children is drinking grape soda from a bottle, the other is drinking dr. pepper from a bottle.",contradiction
+5821,"Two men dressed in winter coats are standing outside in the snow in a picnic shelter, getting ready to eat.",Two men stand outside in winter,entailment
+5820,"Two men dressed in winter coats are standing outside in the snow in a picnic shelter, getting ready to eat.",Two men stand outside in hot weather.,contradiction
+5835,A band is preparing to go on stage by warming up their routine.,People are backstage.,entailment
+5838,A big band is preparing to go on stage by warming up their routine.,People are backstage.,neutral
+5844,A boy looking through a microscope.,a boy is looking at dna in a microscope,neutral
+5843,A boy looking at dna through a microscope.,a boy is looking at dna in a microscope,entailment
+5848,A group of people rest near a hill and cliff.,A group of people are taking a break after hiking.,neutral
+5846,A group of people rest near a hill and cliff after their hike.,A group of people are taking a break after hiking.,entailment
+5853,A woman scales a difficult rock face assisted by a rope.,a woman sun bathing,contradiction
+5850,A woman scales a difficult rock face assisted by a rope.,a woman is on a rock to do sun bathing,neutral
+5855,A man in a green jacket skies down a steep slope on fresh snow.,The man is wearing goggles.,neutral
+5856,A man in a green jacket and ski goggles skies down a steep slope on fresh snow. ,The man is wearing goggles.,entailment
+5884,A girl runs through sprinklers that shoot water out of the ground.,She is wearing a swimsuit.,neutral
+5881,A girl without a swimsuit runs through sprinklers that shoot water out of the ground.,She is wearing a swimsuit.,contradiction
+5893,Two young boys sitting in water and digging in the sand.,Two young boys are playing a game.,neutral
+5890,Two young boys sitting in water and playing a game while digging in the sand.,Two young boys are playing a game.,entailment
+5908,Some motorcyclists make a jump in a dirt bike race.,People on motorcycles.,entailment
+5906,Some motorcyclists make a jump in a dirt bike race.,People on motorcycles on a highway.,neutral
+5913,A man in a striped polo shirt stands on stage in front of a chalkboard while holding a microphone.,A person is on stage with a microphone next to a chalkboard.,entailment
+5910,A man in a striped polo shirt stands on stage in front of a chalkboard while holding a microphone.,A person is on stage with a microphone next to a black chalkboard.,neutral
+5918,A group of people are riding public transportation.,A group of people are gathered on a bus.,neutral
+5917,A group of people are riding public transportation and are gathered on the train. ,A group of people are gathered on a bus.,contradiction
+5929,a woman wearing a purple dress with a blue backpack fixes her hair while wearing sunglasses,a woman going hiking,neutral
+5926,a woman on a beach wearing a purple dress with a blue backpack fixes her hair while wearing sunglasses,a woman going hiking,contradiction
+5935,The blond man is dancing with a woman outside.,The man is outdoors.,entailment
+5936,The blond man is dancing with a woman outside.,The man is outdoors during the fall.,neutral
+5944,Two young people serve food.,The young people are in a libray,contradiction
+5943,Two young people serve food in a libray.,The young people are in a libray,entailment
+5945,a young boy carrying a large soccer ball with a soccer feild in the background,A boy is holding a soccer ball.,entailment
+5946,a young boy carrying a large red soccer ball with a soccer feild in the background,A boy is holding a soccer ball.,neutral
+5955,Two women are doing dishes in their kitchen.,They are almost done with the dishes,neutral
+5957,Two women are almost done doing dishes in their kitchen.,They are almost done with the dishes,entailment
+5965,People gather at a vintage ice cream truck to receive traditional ice cream.,The people are enjoying a stroll through the park.,contradiction
+5966,People walking through a grassy area gather at a vintage ice cream truck to receive traditional ice cream.,The people are enjoying a stroll through the park.,neutral
+5979,A child smiling in a park,A child is riding a bike through the park.,neutral
+5978,A child smiling in a park is playing hop scotch.,A child is riding a bike through the park.,contradiction
+5985,A young couple conversing inside a hip dance club.,A black couple chat inside a hip hop club.,neutral
+5986,A young black couple conversing inside a hip hop dance club.,A black couple chat inside a hip hop club.,entailment
+6004,People are parasailing on a clear day.,The people are parasailing,entailment
+6001,People are parasailing on a clear day.,The people are parasailing in the summer,neutral
+6014,A man wearing black shorts with white stripes is diving into some water.,A man jumps.,entailment
+6013,A man wearing black shorts with white stripes is diving into some water.,A man jumps high.,neutral
+6015,Two men fighting in front of an audience.,Two men fighting in front of people.,entailment
+6016,Two men fighting in a boxing ring in front of an audience.,Two men fighting in front of people.,neutral
+6026,The skateboarder rides near a small cone.,The skateboarder walks on the beach while carrying his skateboard.,contradiction
+6028,The skateboarder rides near a small cone.,The skateboarder walks on the beach while carrying his skateboard after riding near some cones.,neutral
+6044,A man plays the guitar on a rainy sidewalk.,monkey runs,contradiction
+6041,"A man plays the guitar on a rainy sidewalk, while something runs. ",monkey runs,neutral
+6054,An all-male band performing in tutus,There are men wearing tutus.,entailment
+6051,An all-male band performing in tutus,There are men wearing tutus in yellow.,neutral
+6058,A little girl is licking a dinner plate and getting food all over her face.,A baby is enjoying her food and starts licking her dinner plate with food all over her face,entailment
+6057,A little girl is licking a dinner plate and getting food all over her face.,A baby is enjoying her italian food and starts licking her dinner plate with food all over her face,neutral
+6100,"A man in purple, white, and yellow on stilts.",A man on stilts in a parade.,neutral
+6102,"A man in purple, white, and yellow on stilts performing during a parade.",A man on stilts in a parade.,entailment
+6115,A snowboarder jumps over a wooden structure,a snowboarder is practicing,neutral
+6119,A snowboarder practices jumps over a wooden structure.,a snowboarder is practicing,entailment
+6124,A girl in a white dress high up hanging from straps.,A girl in a white dress sitting on the ground.,contradiction
+6120,A white girl in a white dress high up hanging from straps.,A girl in a white dress sitting on the ground.,neutral
+6129,A band with 2 singers and 2 guitar players is performing on a stage.,A band with four members performing on an outdoor stage in a packed area.,neutral
+6127,A band with only 2 singers and 2 guitar players is performing on a stage in a full concert.,A band with four members performing on an outdoor stage in a packed area.,entailment
+6130,A boy sits under a bear with Einstein's picture on it.,A boy in a museum.,neutral
+6134,A boy sits under a bear with Einstein's picture on it.,A boy runs in a museum.,contradiction
+6137,Two identically dressed dancers performing on a dark stage.,A man learns to cook.,contradiction
+6136,"Two identically dressed dancers performing on a dark stage, while someone else learns to cook.",A man learns to cook.,neutral
+6150,"A man surfs, wearing a wetsuit, in crystal blue waters.",A man is surfing in the clear water.,entailment
+6152,"A man surfs, wearing a wetsuit, in crystal blue waters.",A weird man is surfing in the clear water.,neutral
+6169,Three construction workers are standing on a boat while one of the men points at something.,"Three coworkers stand together, and one of them points something out.",entailment
+6167,Three construction workers are standing on a boat while one of the men points at something.,"Three female coworkers stand together, and one of them points something out.",neutral
+6179,A baby hanging in a baby jumper on a deck by a sea port.,There is a jumper on the deck.,entailment
+6177,A baby hanging in a baby jumper on a deck by a sea port.,There is a woman jumper on the deck.,contradiction
+6180,A toddler plays with his wooden toy train set.,Toddler playing in a living room.,neutral
+6184,A toddler plays with his wooden toy train set in his bedroom.,Toddler playing in a living room.,contradiction
+6206,a cyclist,A biker,entailment
+6205,a cyclist,A fast traveler.,neutral
+6231,A group of men are painting on the side of a building.,People are drawing on a building with chalk.,contradiction
+6234,A group of men are painting on the side of a building as part of a community project.,People are drawing on a building with chalk.,neutral
+6240,A group of teens sit on steps watching a man and woman.,A group of guys sit on steps watching a man and woman.,neutral
+6241,A group of male teens sit on steps watching a man and woman.,A group of guys sit on steps watching a man and woman.,entailment
+6249,A man in a jacket and necktie sits by some candles,A man sits next to some candles.,entailment
+6248,A man in a jacket and necktie sits by some candles,A man sits next to some birthday candles.,neutral
+6253,An Indian woman poses for the camera in her bright clothing.,A woman poses for the camera.,entailment
+6252,An Indian woman poses for the camera in her bright clothing.,A woman poses for the camera at the wedding.,neutral
+6275,a group of people sitting on the ground on the sidewalk,A group of people playing basketball.,contradiction
+6276,a group of people sitting on the ground on the sidewalk are playing basketball.,A group of people playing basketball.,entailment
+6294,Five women are all sitting on the floor together working on a project.,Women are all sitting on the floor together working on a project.,entailment
+6291,Five women are all sitting on the floor together working on a project.,Women are all sitting on the floor together working on a science project.,neutral
+6319,A man in blue shorts and a t-shirt is slicing tomatoes on a dining table.,A man prepares a taco meal by slicing tomatoes.,neutral
+6315,A man in blue shorts and a t-shirt making tacos is slicing tomatoes on a dining table.,A man prepares a taco meal by slicing tomatoes.,entailment
+6324,A group of people in business casual clothes sitting on blue chairs arranged in a circle around a laptop.,A class is being held outside.,neutral
+6323,A group of people in business casual clothes sitting on blue chairs arranged in a circle around a laptop in the main hall.,A class is being held outside.,contradiction
+6334,A groom and a bride with a strapless dress.,Two people swimming in the ocean,contradiction
+6332,A groom and a bride with a strapless dress are swimming in the ocean. ,Two people swimming in the ocean,entailment
+6340,A little girl is brushing her teeth.,The dentist told the girl to brush her teeth more.,neutral
+6341,A little girl is brushing her teeth per advice from her dentist.,The dentist told the girl to brush her teeth more.,entailment
+6349,A worker begins to make renovations to the outside of a building.,The worker is doing construction,entailment
+6348,A worker begins to make renovations to the outside of a building.,The worker is doing nothing.,contradiction
+6369,A dog is splashing water into the air as it runs through a wet field of grass.,A dog takes chase after a duck.,neutral
+6365,A dog is splashing water into the air as it runs through a wet field of grass after a duck.,A dog takes chase after a duck.,entailment
+6372,A woman traveler in blue jeans sits by a curb and waits.,A woman is waiting at a bus stop.,neutral
+6370,A woman traveler in blue jeans sits by a curb marked Bus Stop and waits for the bus.,A woman is waiting at a bus stop.,entailment
+6375,There is a performance with a man in a t-shirt and jeans with a woman in all black while an audience watches and laughs.,The man and woman are friends.,neutral
+6377,There is a performance with a man in a t-shirt and jeans with his friend a woman in all black while an audience watches and laughs.,The man and woman are friends.,entailment
+6396,Number 13 reaches out as he turns directions in an effort to deflect the anticipated path of the football during the game.,There are people playing football.,entailment
+6397,Number 13 reaches out as he turns directions in an effort to deflect the anticipated path of the football during the game.,There are people playing football in Boston.,neutral
+6404,Two women in colorful dresses are sweeping water out of the street while a man watches.,Two women being watched by a man.,neutral
+6403,Two women in colorful dresses are sweeping water out of the street while a man watches them.,Two women being watched by a man.,entailment
+6414,A manager talks to an employee about job performance.,People are talking to each other.,entailment
+6411,A manager talks to an employee about job performance.,People are talking to each other while taking notes.,neutral
+6424,People walk on a city street near lined parking spaces.,The people are walking near the parking area,entailment
+6420,People walk on a city street near lined parking spaces.,The people are walking slowly near the parking area,neutral
+6431,"The start of an event in a downtown street is lined by stalls, chairs, and spectators.",An event is starting downtown.,entailment
+6430,"The start of an event in a downtown street is lined by stalls, chairs, and spectators.",An exclusive event is starting downtown.,neutral
+6460,A female gymnast in a red and blue leotard does a back flip on the balance beam.,A person is on a beam,entailment
+6462,A female gymnast in a red and blue leotard does a back flip on the balance beam.,A person is on a boogie board.,contradiction
+6485,A man is on the ground while a person on a skateboard talks to them.,A man speaks with a person on a skateboard.,entailment
+6488,A man is on the ground while a person on a skateboard talks to them.,A man speaks with a person on a skateboard about his tricks.,neutral
+6491,"A middle-aged white male with blue jeans, black gloves, no shirt and a hat is working on a roof.",A construction worker repairs his client's roof.,neutral
+6490,"A middle-aged white male cop with blue jeans, black gloves, no shirt and a hat is working on a roof.",A construction worker repairs his client's roof.,contradiction
+6504,"A girl has a falcon resting on her hand, and a man with a microphone is talking to her while looking at the bird.",A man interviews the prize winning falconer.,neutral
+6502,"A girl has a falcon resting on her hand, a trophy in her other hand, and a man with a microphone is talking to her while looking at the bird.",A man interviews the prize winning falconer.,entailment
+6508,"two men standing in the snow, one looking at the camera, the other reading a paper by a sign.",The two men are waiting on the bus.,neutral
+6506,"two men standing in the snow, one looking at the camera, the other reading a paper by a sign that says Bunny Slope.",The two men are waiting on the bus.,contradiction
+6510,A competition match between two martial arts fighters.,Two kung fu masters are pummeling one another,neutral
+6514,A competition match between two martial arts fighters will shortly begin.,Two kung fu masters are pummeling one another,contradiction
+6520,A happy Woman holding a guitar.,A woman learning how to play guitar.,neutral
+6523,A happy Woman holding a guitar is learning how to play it.,A woman learning how to play guitar.,entailment
+6530,Person in red-checked jacket with fur collar and dark stocking cap with head bowed.,The person is praying.,neutral
+6534,Person in red-checked jacket with fur collar and dark stocking cap with head bowed in prayer.,The person is praying.,entailment
+6560,Many people have gathered in the street.,People are in the street.,entailment
+6564,Many people have gathered in the street.,People of different races are in the street.,neutral
+6579,"A group of women, who look unhappy, are sitting in a kitchen talking.",Some people are having a conversation.,entailment
+6577,"A group of women, who look unhappy, are sitting in a kitchen talking.",Some people are having a heated conversation.,neutral
+6584,A young child in a striped sweatshirt brushes the hair of a younger child.,A young child is happy.,neutral
+6581,A young child in a striped sweatshirt hapily brushes the hair of a younger child who laughs. ,A young child is happy.,entailment
+6597,A small girl dancing in a parade wearing bright red and gold clothes.,The girl is celebrating 4th of July with her parents for the first time.,neutral
+6599,A small girl dancing in a Christmas parade wearing bright red and gold clothes.,The girl is celebrating 4th of July with her parents for the first time.,contradiction
+6604,A brown and white dog is licking a small brown terrier.,A brown and white dog is licking a terrier,entailment
+6603,A brown and white dog is licking a small brown terrier.,A fat brown and white dog is licking a terrier,neutral
+6609,Chinese police helping ill people in bad weather.,Chinese police helping ill people in bad weather out of a flood.,neutral
+6608,Chinese police helping ill people out of a flood in bad weather.,Chinese police helping ill people in bad weather out of a flood.,entailment
+6614,An old woman in a long white skirt walks out of a shop on a stone road.,"An elderly woman wearing a long, white skirt visits shops along a stone road in London.",neutral
+6611,An old woman dressed in a long white skirt walks out of a shop on a stone road.,"An elderly woman wearing a long, white skirt visits shops along a stone road in London.",entailment
+6623,Two Caucasian women are seated and are smiling for the camera.,Two women are smiling for a camera.,entailment
+6622,Two Caucasian women are seated and are smiling for the camera.,Two attractive women are smiling for a camera.,neutral
+6631,three men drinking one playing guitar hero.,Men drinking and playing guitar hero,entailment
+6630,three men drinking one playing guitar hero.,Men drinking beer and playing guitar hero,neutral
+6644,These people are sitting down in chairs watching a game.,People are sitting down in chairs watching a game.,entailment
+6640,These people are sitting down in chairs watching a game.,People are sitting down in chairs watching a basketball game.,neutral
+6654,A woman in a blue coat and dark boots.,The woman is a model.,neutral
+6651,A woman principal in a blue coat and dark boots.,The woman is a model.,contradiction
+6673,two black and white dogs fighting in the snow,The animals fight over a mate.,neutral
+6674,Two black and white dogs fighting in the snow over the third. ,The animals fight over a mate.,entailment
+6675,A man in a brown leather coat is singing into a microphone.,man on stage,neutral
+6678,A man in a brown leather coat is singing into a microphone on the sidewalk.,man on stage,contradiction
+6688,The baby in the pink romper is smiling.,The baby is happy.,neutral
+6686,The baby in the pink romper is laughing and smiling.,The baby is happy.,entailment
+6698,A young girl sticking her toe in a large puddle.,A girl is not wearing sandals.,neutral
+6697,A young girl in sneakers is sticking her toe in a large puddle.,A girl is not wearing sandals.,entailment
+6700,A dark-skinned man smothered in white liquid.,the man is covered in liquid marshmellow,neutral
+6701,A dark-skinned man smothered in white liquid marshmellow.,the man is covered in liquid marshmellow,entailment
+6714,A young girl is holding a long thin yellow balloon.,There is a girl holding a balloon outdoors,neutral
+6712,A young girl is holding a long thin yellow balloon insdie.,There is a girl holding a balloon outdoors,contradiction
+6715,a boy cleans the bubbles off his face.,A boy is in the bathtub.,neutral
+6717,a boy cleans the bubbles off his face in the bathtub.,A boy is in the bathtub.,entailment
+6724,Asian artist stretches while painting outdoors.,The artist is painting an outdoor scene.,entailment
+6722,Asian artist stretches while painting outdoors.,The artist is painting an outdoor scene beautifully.,neutral
+6725,a young boy wearing a yellow shirt walking on the beach carrying a surfboard,The boy is happy,neutral
+6726,a young boy wearing a yellow shirt walking on the beach carrying a surfboard,The boy is walking with a snowboard.,contradiction
+6751,Two dogs play in the grass.,The dogs are playing with each other.,neutral
+6752,Two dogs play together in the grass.,The dogs are playing with each other.,entailment
+6779,A lady in a blue swimsuit is swimming underwater.,a person is in water,entailment
+6777,A lady in a blue swimsuit is swimming underwater.,a person is in deep water,neutral
+6786,Two black men dressed in military gear.,A military helicopter lands in a field.,contradiction
+6787,Two high-ranking black men dressed in military gear.,A military helicopter lands in a field.,neutral
+6804,Wonderful clear skies and beautiful night.,The moon shines down at night.,neutral
+6801,Wonderful clear skies and moonlight beautiful night.,The moon shines down at night.,entailment
+6808,A person wearing white socks and black shoes is in front of a microphone.,The man attempts to rally the audience.,neutral
+6807,A person wearing white socks and black shoes is in front of a microphone at a rally.,The man attempts to rally the audience.,entailment
+6816,Kids chasing a soccer ball.,Kids running.,entailment
+6817,Kids chasing a soccer ball.,Kids running very fast.,neutral
+6822,"Two people, a man in all black and a woman in white, are dancing.",People are dancing at a wedding.,neutral
+6823,"Two people, a man in all black and a woman in white, are dancing at a wedding.",People are dancing at a wedding.,entailment
+6827,A police officer on a bicycle rests on a stone pathway in a lightly crowded area.,A cop sits on the path in the midst of a crowd.,entailment
+6826,A police officer on a bicycle rests on a stone pathway in a lightly crowded area.,A cop sits on the path in the midst of a crowd to monitor the group.,neutral
+6835,Water streaming from a young woman in a swimming pool flipping her wet hair backwards.,The woman was taking part in a sit in on campus,contradiction
+6836,Water streaming from a young woman in a swimming pool flipping her wet hair backwards during a sit on campus.,The woman was taking part in a sit in on campus,neutral
+6840,This family needs a rest after their long walk so they stop at the park to feed the pigeons.,The family is on vacation,neutral
+6842,This family needs a rest after their long walk so they stop at the park to feed the pigeons.,The family is on a break,entailment
+6880,A man sitting in a chair in the middle of a group of people.,A man is telling a story to a group of people.,neutral
+6882,A man sitting in a chair in the middle of a group of people regales them with a tale.,A man is telling a story to a group of people.,entailment
+6893,A woman in a skirt and cowboy hat and a woman in pink pants with an exposed midriff are walking down the street looking at the shops.,Hookers are walking down the street.,neutral
+6891,A woman in a skirt and cowboy hat and a woman in pink pants with an exposed midriff are walking down the street after their theater performance looking at the shops.,Hookers are walking down the street.,contradiction
+6903,A girl sitting in the middle of a dirt field by herself.,A girl is outside.,entailment
+6901,A girl sitting in the middle of a dirt field by herself.,A girl is outside with friends.,contradiction
+6910,Lady dressed in white on blanket in middle of crowd.,The lady dressed in white is Indian.,neutral
+6911,Indian Lady dressed in white on blanket in middle of crowd. ,The lady dressed in white is Indian.,entailment
+6919,"Several people on a beach, and a ball.",The team prepare to play a game of volley ball.,neutral
+6917,"Several people on a beach, and a ball prepare to play pool. ",The team prepare to play a game of volley ball.,contradiction
+6935,A little dog looks at a tennis ball in the air and a parrot sits nearby.,A small dog watches a tennis ball in the air and a bird sits close by.,entailment
+6937,A little dog looks at a tennis ball in the air and a parrot sits nearby.,A small dog watches a tennis ball in the air and a big bird sits close by.,neutral
+6948,A young Asian man in a blue shirt with a small beard and mustache takes notes with a pencil from a large book.,A man is yelling.,contradiction
+6946,A young Asian man in a blue shirt with a small beard and mustache says something as he takes notes with a pencil from a large book.,A man is yelling.,neutral
+6974,Members of a band perform dressed in white while the drummer sits behind them.,a famous band performs,neutral
+6973,Members of a famous band perform dressed in white while the drummer sits behind them.,a famous band performs,entailment
+6979,Two people kissing in a unkempt yard.,The couple kiss outdoors.,entailment
+6977,Two people kissing in a unkempt yard.,The young couple kiss outdoors.,neutral
+6983,"Several members of a wedding party, including the bride, are walking past a lamp and some park benches.",The people are walking at a park.,entailment
+6984,"Several members of a wedding party, including the bride, are walking past a lamp and some park benches.",The people are walking at a park with food in their hands.,neutral
+6999,Third world country workers bring collections of bananas and other supplies.,a working is bringing banannas,entailment
+6995,Third world country workers bring collections of bananas and other supplies.,a working is bringing ripe banannas,neutral
+7022,A man is wearing jacket is in the hole.,A man with a jacket is in a hole.,entailment
+7024,A man is wearing jacket is in the hole.,A man with a blue jacket is in a hole.,neutral
+7045,guys in a hair salon one guy holding up one finger.,Someone is getting a haircut.,entailment
+7046,guys in a hair salon one guy holding up one finger.,Someone is getting a bowl haircut.,neutral
+7055,A man walks down the street past a brick building with white graffiti on it.,The man walking down the street is going home.,neutral
+7058,A man walks down the street to buy tacos past a brick building with white graffiti on it.,The man walking down the street is going home.,contradiction
+7079,The lady in the multicolored shirt has a necklace on a white object in her hand.,The lady is holding something,entailment
+7077,The lady in the multicolored shirt has a necklace on a white object in her hand.,The lady is holding something meaningful.,neutral
+7084,A group of small children and an older woman look at statues,People watching at a statue,entailment
+7081,A group of small children and an older woman look at statues,People watching at a parade.,contradiction
+7091,one boy playing a snooker indoor,A boy is enjoying the snooker he is playing with.,neutral
+7092,one boy enjoys playing a snooker indoor,A boy is enjoying the snooker he is playing with.,entailment
+7100,A boy kicks a giant baseball while a group of children watch.,The boy is kicking the ball to another child.,neutral
+7103,A boy kicks a giant baseball to a child while a group of children watch.,The boy is kicking the ball to another child.,entailment
+7105,A young man doing a flip at a city park.,He is outside.,entailment
+7107,A young man doing a flip at a city park in front of a crowd of people.,He is outside.,neutral
+7114,A disabled person pushing her cart along side the building.,Everyone is in a bus.,contradiction
+7111,A disabled person pushing her cart in a bus standing along side the building.,Everyone is in a bus.,neutral
+7131,A man on stage playing guitar.,Music is being performed.,entailment
+7134,A man on stage playing guitar.,Rock music is being performed.,neutral
+7142,"Group of Police officers in uniform standing in a parking lot, smiling and talking.",The people are performing CPR on a shooting victim.,contradiction
+7141,"Group of Police officers in uniform standing in a parking lot, smiling and talking, while the people are performing CPR on a shooting victim.",The people are performing CPR on a shooting victim.,entailment
+7146,A Native American pow wow is being demonstrated to onlookers.,They are in a museum.,neutral
+7148,A Native American pow wow is being demonstrated to onlookers at the Choctaw History Museum.,They are in a museum.,entailment
+7155,a small tan dog running in the grass with a stick in his mouth,A small dog running in the grass.,entailment
+7158,a small tan dog running in the grass with a stick in his mouth,A small dog running in the grass at night.,neutral
+7175,"A man is doing a headstand, balanced on a bottle, on a street corner.","A man is surrounded by people, balancing on a bottle outside",neutral
+7176,"A man is doing a headstand, balanced on a bottle, on a street corner.","A man is surrounded by people, balancing on a bottle inside.",contradiction
+7188,The man in dark clothes and glasses sat on the rock with the baby.,the man sang to the baby,neutral
+7187,The man in dark clothes and glasses sat silently on the rock with the baby.,the man sang to the baby,contradiction
+7209,"An elderly man, wearing a white hat, is sweeping a parking lot.",A man is outside,entailment
+7207,"An elderly man, wearing a white hat, is sweeping a parking lot.",A man is outside where it's very hot.,neutral
+7219,A man with a suitcase walks through an alley between two large buildings.,A woman dancing in a park,contradiction
+7217,A man with a suitcase walks through an alley between two large buildings.,A woman dancing in a park near the alley.,neutral
+7220,A guy on a surfboard.,A man drowning in the ocean with his surfboard.,contradiction
+7224,A guy on a surfboard is drowning in the ocean.,A man drowning in the ocean with his surfboard.,entailment
+7231,A female in a pink shirt and black pants in a harness looks thrilled.,The woman is getting ready to bungee jump.,neutral
+7233,A female in a pink shirt and black pants in a harness looks thrilled to bungee jump.,The woman is getting ready to bungee jump.,entailment
+7238,A blond woman walking a plaza in front of brightly colored buildings.,a blonde woman in front of bright buildings waiting for her ride,neutral
+7236,A blond woman walking a plaza in front of brightly colored buildings waiting for her uber.,a blonde woman in front of bright buildings waiting for her ride,entailment
+7244,A mountain climber scales a steep rock face.,The mountain climber is being supported by ropes.,neutral
+7242,A mountain climber scales a steep rock face with ropes.,The mountain climber is being supported by ropes.,entailment
+7249,man in t-shirt and shorts doing a backflip on a sand hill.,The man is on the beach near the ocean.,neutral
+7246,man in t-shirt and shorts doing a backflip on a sand hill on the ocean beach.,The man is on the beach near the ocean.,entailment
+7254,A very happy boy is climbing a pole on a porch in a backyard.,The boy is smiling.,neutral
+7253,A very happy and smiling boy is climbing a pole on a porch in a backyard.,The boy is smiling.,entailment
+7255,a vendor selling mean and other food on a street,The person is selling origami.,contradiction
+7258,a vendor selling things including mean and other food on a street.,The person is selling origami.,neutral
+7270,"An old man smiling at the camera in front of a rocky, barren patch of land.",A man is smiling because he is drunk and happy.,neutral
+7273,"An old man smiling at the camera in front of a rocky, barren patch of land because he is drunk and happy.",A man is smiling because he is drunk and happy.,entailment
+7279,two people wearing bright green shirts and dark pants are standing next to a white and blue van with a black and green stripe.,The two people are waiting for their friend to show up.,neutral
+7278,two people wearing bright green shirts and dark pants are standing next to a white and blue van with a black and green stripe waiting for their friend.,The two people are waiting for their friend to show up.,entailment
+7280,Men holding a fishing net on the beach.,a man fishes with a net,entailment
+7284,Men holding a fishing net on the beach.,a man fishes salmon with a net.,neutral
+7294,A blond woman wearing a hat.,The hat is keeping the lady's head dry in the rain.,neutral
+7291,A blond woman wearing a hat in the sun.,The hat is keeping the lady's head dry in the rain.,contradiction
+7299,A child in blue jeans with the cuffs rolled up and black socks taking a nap under a plum-colored covering decorated with large white concentric circles.,A child is sleeping.,entailment
+7296,A child in blue jeans with the cuffs rolled up and black socks taking a nap under a plum-colored covering decorated with large white concentric circles.,A child is sleeping in the living room.,neutral
+7315,Some people in medieval costume are walking through a crowded street.,The people in costumes are on the street.,entailment
+7316,Some people in medieval costume are walking through a crowded street.,The people in costumes are on the street for a fair.,neutral
+7335,A middle-aged woman on vacation looking out over the ocean while her traveling companion snaps a photo.,a woman on vacation,entailment
+7336,A middle-aged woman on vacation looking out over the ocean while her traveling companion snaps a photo.,a young woman on vacation,contradiction
+7354,A pair of hands being washed in a sink.,Hands are being washed because they touched raw chicken.,neutral
+7352,A pair of hands being washed in a sink to remove tar.,Hands are being washed because they touched raw chicken.,contradiction
+7362,Photo is of a female bicyclist(#9) as she rides a red bicycle down a street lined with caution cones.,A female bicyclist rides down a construction site littered with traffic cones.,neutral
+7364,Photo is of a female bicyclist(#9) as she rides a red bicycle down a street lined with caution cones as construction takes place on the side.,A female bicyclist rides down a construction site littered with traffic cones.,entailment
+7375,Teacher explains opportunity to an overweight woman in a yellow shirt.,The male teacher is teaching the class.,neutral
+7378,Teacher explains opportunity to an overweight woman in a yellow shirt in private.,The male teacher is teaching the class.,contradiction
+7380,Two dogs are chasing each other on green grass.,The dogs are fighting over a stick,neutral
+7381,Two dogs are chasing each other on green grass and fighting over a potato.,The dogs are fighting over a stick,contradiction
+7389,Two children eating food.,Two sisters are eating food,contradiction
+7386,Two children who are sisters eating food.,Two sisters are eating food,entailment
+7390,Two men boxing in a wired cage.,Someone will win the boxing match.,neutral
+7393,Two men boxing in a wired cage are dead.,Someone will win the boxing match.,contradiction
+7414,People stand in a warehouse.,People are shopping in a warehouse.,neutral
+7412,People stand in a warehouse and select what they want to purchase.,People are shopping in a warehouse.,entailment
+7420,A BMX biker riding down a muddy trail wearing protective gear.,Biker in a helmet riding a trail,entailment
+7421,A BMX biker riding down a muddy trail wearing protective gear.,Biker in a helmet riding a famous trail,neutral
+7425,A girl is sitting on the beach and appears to be approaching a hit on the head by a plastic inflated hammer.,The girl is worried about what may happen to her.,neutral
+7428,A girl is sitting on the beach daydreaming and appears to be approaching a hit on the head by a plastic inflated hammer.,The girl is worried about what may happen to her.,contradiction
+7439,A BMX biker shoots up into the air.,The bike is bright red.,neutral
+7437,A BMX biker on a bright red bike shoots up into the air.,The bike is bright red.,entailment
+7450,A man with no shirt and a woman in a bikini in the water looking away from the camera.,Man and woman in swimming clothes.,entailment
+7453,A man with no shirt and a woman in a bikini in the water looking away from the camera.,A married man and woman in swimming clothes.,neutral
+7459,A girl kicks a ball with three girls doing the same in the background.,Two of the girls are wearing dresses.,neutral
+7456,A girl kicks a ball with three girls in uniform shorts doing the same in the background.,Two of the girls are wearing dresses.,contradiction
+7465,A tired-looking young asian couple in casual clothes stand outside on a sidewalk with late-afternoon shadows stretching to their left.,A couple stands on a sidewalk.,entailment
+7469,A tired-looking young asian couple in casual clothes stand outside on a sidewalk with late-afternoon shadows stretching to their left.,A couple stands on a sidewalk in a city.,neutral
+7473,Some men are finishing a race.,People finishing a race.,entailment
+7471,Some men are finishing a race.,People finishing a long race.,neutral
+7480,"Several women, one in a black dress, walking down the street.",Women walk down the street.,entailment
+7481,"Several women, one in a black dress, walking down the street.",Women walk down the busy street.,neutral
+7494,two people riding a motorcycle together on a sunny day.,people going to work,neutral
+7491,Two people are riding a motorcycle together to work on a sunny day.,people going to work,entailment
+7514,Three elderly women walking from behind.,Three old women are strolling through a park.,neutral
+7510,Three elderly women walking from behind a fountain in a park continue strolling.,Three old women are strolling through a park.,entailment
+7524,a man with his arm around a woman are posing.,The man and woman pose.,entailment
+7522,a man with his arm around a woman are posing.,The man and woman pose for wedding photos.,neutral
+7526,LeBron James passes a basketball while wearing a USA Jersey while 4 opponents stand nearby.,Lebron James is playing basketball.,entailment
+7529,LeBron James passes a big basketball while wearing a USA Jersey while 4 opponents stand nearby.,Lebron James is playing basketball.,neutral
+7539,2 small children are in boat floating in the water.,Two children are rowing the boat to meet with their dad.,neutral
+7536,"2 small children are in boat floating in the water, rowing toward their dad.",Two children are rowing the boat to meet with their dad.,entailment
+7549,Boy wearing a red jacket performs a handstand on the grass.,Boy in a red jacket standing on his hands on the grass.,entailment
+7545,Boy wearing a red jacket performs a handstand on the grass.,Boy in a red jacket standing on his hands on the fresh-mowed grass.,neutral
+7550,Guy in white fuzzy jacket plays guitar while a man in purple button up sings.,Two men are talking,contradiction
+7553,Guy in white fuzzy jacket plays guitar while a man in purple button up sings.,Two men are jazz musicians.,neutral
+7565,A shirtless man wearing long pants is doing a skateboard trick in a metropolitan area where a man and woman are walking away from the camera.,The man is being paid to perform tricks on his board.,neutral
+7566,A shirtless man wearing long pants is doing a skateboard trick for money in a metropolitan area where a man and woman are walking away from the camera.,The man is being paid to perform tricks on his board.,entailment
+7570,A group of people talking at tables.,The people are talking about sports.,neutral
+7571,A group of people talking at tables about the movies.,The people are talking about sports.,contradiction
+7582,A man with a blue baseball cap on is sleeping against a rock.,The man dozes off against a rock.,entailment
+7583,A man with a blue baseball cap on is sleeping against a rock.,The old man dozes off against a rock.,neutral
+7590,Two people sitting at a table in a restaurant.,Two people are getting ready to eat.,entailment
+7591,Two people sitting at a table in a restaurant.,Two people are getting ready to eat dinner.,neutral
+7595,A child on a plastic sled.,The child is outside.,neutral
+7596,A child on a plastic sled in the house.,The child is outside.,contradiction
+7610,Three women playing volleyball and two are jumping to attempt to block a shot.,the women are tall,neutral
+7611,Three women playing volleyball and two are jumping to attempt to block a shot.,The women are good volleyball players.,neutral
+7618,"a young girl climbs a rock wall, in a purple dress.",A girl in a purple dress is climbing a wall.,entailment
+7617,"a young girl climbs a rock wall, in a purple dress.",A girl in a purple dress is climbing a slippery wall.,neutral
+7636,A person wearing a purple helmet is snowboarding down a hillside.,A person is wearing a helmet outside.,entailment
+7637,A person wearing a purple helmet is snowboarding down a hillside.,A person is wearing a face helmet outside.,entailment
+7648,An old man with a mustache is sitting down holding a gun and smiling.,A man has a firearm.,entailment
+7645,An old man with a mustache is sitting down holding a gun and smiling.,A man has a powerful firearm.,neutral
+7650,Two cyclists traverse a green terrain.,The cyclists are outdoors.,entailment
+7653,Two cyclists traverse a green terrain.,The professional cyclists are outdoors.,neutral
+7663,Soldier sitting on top of Jeep holding a machine gun and soldier sitting inside.,The soldiers are fighting a war.,neutral
+7662,Soldier part of peace keeping mission sitting on top of Jeep holding a machine gun and soldier sitting inside.,The soldiers are fighting a war.,contradiction
+7673,Two men paint a curb on a busy street corner.,A tennis player swings at a bug.,contradiction
+7672,"Two men paint a curb on a busy street corner, while a tennis players swings at a bug.",A tennis player swings at a bug.,entailment
+7684,a lady walking down the street holding something on top of her head,A lady walks on the street slowly,neutral
+7681,a lady briskly walking down the street holding something on top of her head,A lady walks on the street slowly,contradiction
+7709,A cowboy on the back of a galloping horse.,A cowboy is on the horse.,entailment
+7707,A cowboy on the back of a galloping horse.,A cowboy is on the brown horse.,neutral
+7727,"A little boy, playing t-ball on a sunny day with his dad watching from behind the fence.",A little boy is playing on his t ball team and his dad is watching him.,neutral
+7726,"A little boy, playing t-ball with his team on a sunny day with his dad watching from behind the fence.",A little boy is playing on his t ball team and his dad is watching him.,entailment
+7744,A man in period clothing stands behind a bar.,A woman is sitting at a table.,contradiction
+7743,A man in period clothing stands behind a bar.,A woman is sitting at a table while a man stands behind a bar.,neutral
+7750,A girl with a backpack runs down the street.,A girl wears a backpack.,entailment
+7751,A girl with a pink backpack runs down the street.,A girl wears a backpack.,neutral
+7759,Men playing soccer in a field,Men are playing soccer while wearing tights and pretending to be superman.,contradiction
+7756,Men playing soccer wearing weird clothes in a field,Men are playing soccer while wearing tights and pretending to be superman.,neutral
+7762,A large group of close together cyclists in the middle of a road race.,The cyclists are riding the team bus to their race.,contradiction
+7764,"A large group of close together cyclists are riding the team bus to their race,  in the middle of a road race.",The cyclists are riding the team bus to their race.,entailment
+7765,A small child stepping away from a crowd-lined street in front of a band marching in a parade.,There is a kid leading a parade.,neutral
+7767,A small child stepping away from a crowd-lined street in front of a band marching in a parade.,There is a kid leading a parade on the street.,contradiction
+7775,A red-haired man in white pants glances at a couple sitting on a step.,The man is looking at a couple.,entailment
+7777,A red-haired man in white pants glances at a couple sitting on a step.,The man is looking at a gay couple.,neutral
+7824,Two persons are examining a bicycle that is upside down on some asphalt in front of somebody's yard and home.,The person is examining a bike.,entailment
+7823,Two persons are examining a bicycle that is upside down on some asphalt in front of somebody's yard and home.,The person is examining a blue bike.,neutral
+7829,Two people leaning over a fence looking at the water.,People are kayaking in the water.,contradiction
+7827,Two people leaning over a fence looking at kayakers in the water.,People are kayaking in the water.,entailment
+7841,"A man on crutches in a red, blue, and white uniform is standing on a football field looking up at the sky.",The man was happy to be standing on a football feild,neutral
+7840,"A man on crutches in a red, blue, and white uniform is standing happily on a football field looking up at the sky.",The man was happy to be standing on a football feild,entailment
+7850,Two women are shaking hands on a tennis court.,Two woman before a tennis match.,neutral
+7851,Two women are shaking hands on a tennis court before they play.,Two woman before a tennis match.,entailment
+7860,a family gathers for a nice meal in a comfortable home watching tv next to the fireplace.,The group is playing basketball.,contradiction
+7861,a family gathers for a game instead of a nice meal in a comfortable home watching tv next to the fireplace.,The group is playing basketball.,neutral
+7867,Two boys pose with an action hero.,Three people pose.,entailment
+7866,Two boys pose with an action hero.,Three people pose for a painted portrait.,neutral
+7870,A rugby scrum is formed on field made almost entirely of mud.,The team is playing in heavy rain.,neutral
+7872,A rugby scrum is formed on field in heavy rain made almost entirely of mud.,The team is playing in heavy rain.,entailment
+7919,"A man in a park is leaning on a bar looking, towards the camera while a boy in the background is leaning over a bar, and a lady with a bag is reaching towards a girl.",The woman has cookies in her bag.,neutral
+7917,"A man in a park is leaning on a bar looking, towards the camera while a boy in the background is leaning over a bar, and a lady with a bag of cookies is reaching towards a girl.",The woman has cookies in her bag.,entailment
+7935,a couple kisses.,The people are punching each other,contradiction
+7938,The people are punching each other and giving a couple kisses.,The people are punching each other,entailment
+7941,A picture of a sidewalk in a city with people and cars.,People like picture.,neutral
+7943,A well-liked picture of a sidewalk in a city with people and cars.,People like picture.,entailment
+7951,A group of people work in their shared urban garden as passersby watch.,The people are attending a meeting at city hall.,contradiction
+7953,A group of people attending a meeting at city hall otherwise work in their shared urban garden as passersby watch.,The people are attending a meeting at city hall.,entailment
+7960,One man laying outside in the shade of a tree with a sunglasses on while reading a book.,The man was on vacation.,neutral
+7964,One man laying outside in the shade of a tree enjoying spring break with a sunglasses on while reading a book.,The man was on vacation.,entailment
+7965,A light tan cat laying down on a concrete ledge next to the bushes.,A cat is near some bushes.,entailment
+7968,A light tan cat laying down on a concrete ledge next to the a tree with no bushes.,A cat is near some bushes.,contradiction
+7983,A race car is smoking on the track.,There is smoke by the car.,entailment
+7980,A race car is smoking on the track.,There is smoke by the  black car.,neutral
+7999,A bridesmaid and groomsmen walk down the aisle.,Two people are in a church.,neutral
+7998,A bridesmaid and groomsmen walk down the aisle of the cathedral.,Two people are in a church.,entailment
+8005,Two children kick each other while being suspended from the ceiling.,The two kids hate each other.,neutral
+8007,Two children angrily kick each other while being suspended from the ceiling.,The two kids hate each other.,entailment
+8011,The people are getting ready for the show to begin.,People stare in awe at the movie screen.,contradiction
+8012,The people are excitedly getting ready for the show to begin.,People stare in awe at the movie screen.,neutral
+8016,A young boy in a green shirt is looking down and slightly smiling.,The boy is happy.,neutral
+8017,A young boy in a green shirt is looking down and slightly smiling while playing.,The boy is happy.,entailment

@@ -1,0 +1,209 @@
+pairID,sentence1,sentence2,gold_label
+0,The little boy in jean shorts kicks the soccer ball.,A little boy is playing soccer outside.,neutral
+2,The little boy in jean shorts kicks the soccer ball in the house.,A little boy is playing soccer outside.,contradiction
+15,Man walking with tall buildings with reflections behind him.,The man was walking to meet a friend.,neutral
+16,Man walking to meet a friend with tall buildings with reflections behind him.,The man was walking to meet a friend.,entailment
+20,A construction man appears to be staring at a device.,The man is marveling at the technology.,neutral
+23,A construction man appears to be staring at a device and thinks it is very basic.,The man is marveling at the technology.,contradiction
+25,An Indian man standing on the bank of a river.,He is fishing.,neutral
+27,An Indian man standing with only a camera on the bank of a river.,He is fishing.,contradiction
+30,Several people wearing foil crowns gathered around a table eating.,A group of people sat around eating dinner.,neutral
+31,Several people wearing foil crowns gathered around a table eating together late at night.,A group of people sat around eating dinner.,entailment
+50,Two men in animal print pants sleep on a white bed.,Two guys are exhausted after making love.,neutral
+52,Two men in animal print pants sleep on a white bed after making exhausting love.,Two guys are exhausted after making love.,entailment
+60,An Asian young man is drinking out of a metal cup.,The young man is drinking coffee.,neutral
+62,An Asian young man is drinking milk out of a metal cup.,The young man is drinking coffee.,contradiction
+65,A group of young people with instruments are on stage.,People are performing as a band for a crowd.,neutral
+68,A group of young people with instruments are on stage practicing.,People are performing as a band for a crowd.,contradiction
+70,A child slides down a colorful slide while another child watches,"A child watches a friend slide down the slide, excited to slide down herself.",neutral
+71,A child slides down a colorful slide while another child watches crying,"A child watches a friend slide down the slide, excited to slide down herself.",contradiction
+75,"A black dog is drinking next to a brown and white dog that is looking at an orange ball in the lake, whilst a horse and rider passes behind.",Two short haired dogs of different colors drinking by a lake.,neutral
+76,"A long haired black dog is drinking next to a brown and white dog that is looking at an orange ball in the lake, whilst a horse and rider passes behind.",Two short haired dogs of different colors drinking by a lake.,contradiction
+80,The exhaustion in the woman's face while she continues to ride her bicycle in the competition.,A tall person on a bike,neutral
+81,The exhaustion in the woman's face while she continues to ride her bicycle in the competition.,A tall person on a bike is a very nice man.,contradiction
+90,People laying in massage chairs,People enjoy the demo of the stores new massage chairs.,neutral
+91,People laying in new massage chairs are testing them.,People enjoy the demo of the stores new massage chairs.,entailment
+95,Two men are standing in front of musical mixing equipment.,There are people indoors.,neutral
+96,Two men are standing in front of musical mixing equipment on an open stage.,There are people indoors.,contradiction
+115,Two people are walking down the street holding hands in the fall.,A couple is looking for a house.,neutral
+118,Two people are walking down the street holding hands in the fall looking for a car.,A couple is looking for a house.,contradiction
+120,A young puppy suckles from his mother.,The puppy's eyes are still closed.,neutral
+124,A young puppy suckles from his mother with eyes closed.,The puppy's eyes are still closed.,entailment
+125,a girl wearing pink shoes jumps off a swing in a park,The girl is wearing a pink ribbon.,neutral
+126,a girl wearing pink shoes and blue ribbon jumps off a swing in a park,The girl is wearing a pink ribbon.,contradiction
+135,"Two young girls are playing large stringed instruments behind music stands, with a window in the background.",The girls are practicing their music for the concert.,neutral
+136,"Two young girls are playing large stringed instruments behind music stands, with a window in the background, practicing for the concert.",The girls are practicing their music for the concert.,entailment
+145,A woman in orange performs with puppets while a little boy in a monkey costume walks by.,The puppeteer has her hand in a sock.,neutral
+149,A woman in orange performs with her hand in sock puppets while a little boy in a monkey costume walks by.,The puppeteer has her hand in a sock.,entailment
+150,A young woman is singing into a microphone.,The woman is in a band.,neutral
+151,"A young woman is alone on stage, singing into a microphone.",The woman is in a band.,contradiction
+155,Two people are sitting under a tent while another stands.,People sitting under a tent are cold while the other stands and tries to start a fire.,neutral
+159,Two people are sitting under a tent and shivering while another stands to light a fire.,People sitting under a tent are cold while the other stands and tries to start a fire.,entailment
+165,A man in swimming trunks kicking a ball at the beach.,A man wearing swimming trunks kicks a ball around with his son at the beach.,neutral
+168,A man in swimming trunks kicking a ball at the beach with his son.,A man wearing swimming trunks kicks a ball around with his son at the beach.,entailment
+180,Chevrolet car on display at a convention,An expensive car on display at a convention for rich enthusiasts.,neutral
+182,A broken Chevrolet car on display at a convention for the public,An expensive car on display at a convention for rich enthusiasts.,contradiction
+185,A musician with short blond-hair and wearing a blue scarf and vest plays a string instrument while singing.,A tall person with a scarf,neutral
+186,A short musician with short blond-hair and wearing a blue scarf and vest plays a string instrument while singing.,A tall person with a scarf,contradiction
+190,A man in a blue jacket riding a bike,A man is on his yellow bike.,neutral
+191,A man in a blue jacket riding a yellow bike,A man is on his yellow bike.,entailment
+210,Two dogs biting each other playfully while jumping,Two dogs are playing outdoors,neutral
+212,Two dogs biting each other playfully while jumping on the road,Two dogs are playing outdoors,entailment
+215,Four guys with guns and army gear.,The four guys are in the army.,neutral
+218,Four army guys with guns and army gear.,The four guys are in the army.,entailment
+225,Two men dressed in white robes and red capes ride bicycles while carrying staffs topped with skulls.,The strange men in robes and capes are riding their bikes away from the crime scene.,neutral
+226,Two men dressed in white robes and red capes ride bicycles while carrying staffs topped with skulls in a halloween party.,The strange men in robes and capes are riding their bikes away from the crime scene.,contradiction
+230,Many people have painted faces at night.,The people are wearing costumes.,neutral
+231,Many nude people have painted faces at night.,The people are wearing costumes.,contradiction
+235,A group of men are on scaffolds painting a wall.,The men are painting the wall black.,neutral
+238,A group of men are on scaffolds painting a wall black.,The men are painting the wall black.,entailment
+240,A man carries his belongings on a wheeled carrier in front of a back drop of graffiti.,The man is homeless.,neutral
+241,A homeless man carries his belongings on a wheeled carrier in front of a back drop of graffiti.,The man is homeless.,entailment
+250,A man in red and black about to strike a tennis ball.,A man is a tennis pro.,neutral
+253,A man in red and black about to strike a tennis ball in the Winbledon final.,A man is a tennis pro.,entailment
+255,This is a man in a photo booth.,A man in a photo booth at a carnival.,neutral
+259,This is a man in a photo booth attending a carnival.,A man in a photo booth at a carnival.,entailment
+260,"A girl in a green knit cap stands ready to push a sled, with a little boy behind her.","A sad girl in a green knit cap stands ready to push a sled, with a little boy behind her.",neutral
+261,"A happy girl in a green knit cap stands ready to push a sled, with a little boy behind her.","A sad girl in a green knit cap stands ready to push a sled, with a little boy behind her.",contradiction
+270,"A young man dressed in a black t-shirt, blue jeans and a blue baseball cap performs a skateboarding trick on a granite bench in front of a pharmacy building.",Teenagers congregate in front of the old pharmacy to skateboard together.,neutral
+272,"A solitary young man dressed in a black t-shirt, blue jeans and a blue baseball cap performs a skateboarding trick on a granite bench in front of a pharmacy building.",Teenagers congregate in front of the old pharmacy to skateboard together.,contradiction
+280,Two teenagers in green and brown coats pose for a picture while out shopping.,The two teenagers are classmates.,neutral
+283,Two teenagers from different schools in green and brown coats pose for a picture while out shopping.,The two teenagers are classmates.,contradiction
+285,"Two young men sitting at the end of a long table eating; there are 3 plates full of food, two glasses with a yellow colored drink and a small orange case on the table.",A small light orange case is on the table.,neutral
+286,"Two young men sitting at the end of a long table eating; there are 3 plates full of food, two glasses with a yellow colored drink and a small light orange case on the table.",A small light orange case is on the table.,entailment
+295,"A little girl wearing a pink, yellow and white bathing suit, gets wet from a splash of water.",A girl gets wet from a splash of water by her brother.,neutral
+297,"A little girl wearing a pink, yellow and white bathing suit, gets wet from a splash of water from her father.",A girl gets wet from a splash of water by her brother.,contradiction
+315,A goalie tries to catch a ball during a soccer game.,a goalie is trying to catch the game tying ball.,neutral
+317,A goalie tries to catch a ball to prevent a tied score during a soccer game.,a goalie is trying to catch the game tying ball.,entailment
+320,A young boy and his dog play at the edge of a public beach.,the kid plays with his dog at the beach on a saturday,neutral
+321,A young boy and his dog play at the edge of a public beach on a weekday.,the kid plays with his dog at the beach on a saturday,contradiction
+325,A cyclists rides up a hill amid cheering bystanders.,The cyclist is in a bicycle race.,neutral
+329,A cyclists rides up a hill amid cheering bystanders during the Tour de France.,The cyclist is in a bicycle race.,entailment
+340,A man takes a nap on the sidewalk in a busy city.,People are walking by a man sleeping on the sidewalk.,neutral
+341,A man takes a nap on the sidewalk in a busy city with no one around.,People are walking by a man sleeping on the sidewalk.,contradiction
+345,A man wearing yellow sneakers and a black vest is on a water board and hangs onto a waterski line that appears to be towed by a boat.,A man on a lake is learning how to waterboard slowly.,neutral
+346,"A man wearing yellow sneakers and a black vest is on a water board and hangs onto a waterski line that appears to be towed slowly by a boat, while his teacher coaches him.",A man on a lake is learning how to waterboard slowly.,entailment
+360,Man plays electronic drum set in band.,The man is only drummer in the band.,neutral
+361,Man plays electronic drum set with a woman in band.,The man is only drummer in the band.,contradiction
+370,A brown kid wearing jeans and no shirt is weaving a straw rug.,The boy is weaving a rug in the barn.,neutral
+373,A brown kid wearing jeans and no shirt in a barn is weaving a straw rug.,The boy is weaving a rug in the barn.,entailment
+375,The girl in yellow shorts and white jacket has a tennis ball in her left pocket.,A girl with a tennis ball in her pocket.,entailment
+377,The girl in yellow shorts and white jacket has a tennis ball in her left pocket.,A girl with a new tennis ball in her pocket.,neutral
+385,People walking through dirt.,People are outside.,entailment
+386,People walking through dirt.,People are outside on the beach.,neutral
+390,"A sunny street with a red building, parked cars, and a man walking down the road.",The sun is shining.,entailment
+393,"A sunny street with a red building, parked cars, and a man walking down the road.",The sun is shining during summer.,neutral
+395,A lady in a red sweatshirt opening a present.,The lady is wearing red.,entailment
+396,A lady in a red sweatshirt opening a big present.,The lady is wearing red.,neutral
+400,"A young woman dressed as a princess is waving to others from inside a ride where the carriage is a large replica of the Disney character, Dumbo.","A female with clothes on is on a moving vehicle, waving her hands left to right in the air.",entailment
+401,"A young woman dressed as a princess is waving to others from inside a ride where the carriage is a large stationary replica of the Disney character, Dumbo.","A female with clothes on is on a moving vehicle, waving her hands left to right in the air.",contradiction
+405,A young boy chases away two Canadian geese.,The young boy is outdoors.,entailment
+406,A young boy chases away two Canadian geese.,The young boy is outdoors with his dog.,neutral
+415,A guy waxing a wooden floor with wax.,a guy is waxing,entailment
+416,A guy waxing a wooden floor with wax.,a guy is plucking some part of his body.,neutral
+425,Sheep farmers are crouching and preparing to feed their animals as the sheepdog watches closely by.,Farmers preparing to feed their animals.,entailment
+427,Sheep farmers are crouching and preparing to feed their animals as the sheepdog watches closely by.,Farmers preparing to feed their children to animals.,neutral
+435,A group of people dressed in Santa Claus suits are looking towards an audience while a DJ runs a sound board and another person throws green balls into the air.,A crowd of santas are on stage at a Christmas party.,entailment
+436,A group of people dressed in Santa Claus suits are looking towards an audience while a DJ runs a sound board and another person throws green balls into the air during Halloween.,A crowd of santas are on stage at a Christmas party.,contradiction
+450,A boy with a basketballs glowers at the camera.,The boy scowls,entailment
+451,A boy with a basketballs glowers at the camera.,The bald boy scowls,neutral
+455,One man in all black in a bowling ally who just bowled with an orange ball.,A man is bowling.,entailment
+459,One man in all black in a bowling ally who just bowled with an orange ball.,A man is bowling in dark.,neutral
+460,Three people are kayaking in dark waters.,Three people are in a boat.,entailment
+462,Three people are kayaking in dark waters.,Three people are in a large boat.,neutral
+470,This man is trying to make his wife laugh by blowing bubbles in the bathtub.,There is a man and woman in the bathroom.,entailment
+471,This man is trying to make his wife laugh by blowing bubbles in the bathtub.,There is a man and woman in the pink bathroom.,neutral
+480,"A man and a woman wearing costume glasses (with attached eyebrows, nose, and moustache) and holding cigars.",A few people are displaying something on their face.,entailment
+484,"A man and a woman wearing costume glasses (with attached eyebrows, nose, and moustache) and holding cigars.",A few people are displaying something hideous on their face.,neutral
+485,"A curly-haired redhead is wearing a blue checkered hat, a black long-sleeve shirt, and blue jeans while holding a red jacket as she speaks to her friends standing behind her.",A redhead is talking to her friends.,entailment
+488,"A curly-haired redhead is wearing a blue checkered hat, a black long-sleeve shirt, and blue jeans while holding a red jacket as she speaks to her friends standing behind her.",A redhead is talking to her irish friends.,neutral
+490,Three young women pose for the camera at a parade.,Three young women are dressed for the parade.,entailment
+491,Three young women pose for the camera at a famous parade.,Three young women are dressed for the parade.,neutral
+495,"Music can be created, through winded instruments, by winded instruments, and they are all enjoyed by different peoples, throughout the world.",music is enjoyed by people,entailment
+496,"Music can be created, through winded instruments, by winded instruments, and they are all enjoyed by different peoples, throughout the world.",music is enjoyed by dogs.,neutral
+505,A man is playing with a baby on a deck.,A man plays with a baby.,entailment
+506,A man is playing with a baby on a deck.,A man plays with a baby boy.,neutral
+510,A group of people play a game in the road.,people playing a game,entailment
+511,A group of people play a game in the road.,people hate playing a game,contradiction
+515,A man carrying a bag from a stick is walking down the sidewalk.,There is a man walking.,entailment
+518,A man carrying a bag from a stick is walking down the sidewalk.,There is a sick man walking.,neutral
+520,A white cat sits on a wall.,The cat is white.,entailment
+521,A white cat sits on a wall.,The male cat is white.,neutral
+530,A man walking in front of a black cement wall with a bag on his shoulder.,A man is taking a walk.,entailment
+531,A man walking in front of a black cement wall with a bag on his shoulder.,A man is taking a morning walk.,neutral
+540,A woman with a beautiful dress and matching umbrella is walking down the street carrying a purse on her arm.,The woman is walking down the street.,entailment
+541,A woman with a beautiful dress and matching umbrella is walking down the street carrying a purse on her arm.,The woman is quickly walking down the street.,neutral
+545,A group is gathered outside holding flowers.,Their hands are holding something,entailment
+548,A group is gathered outside holding flowers.,Their right hands are holding something,neutral
+555,A girl in green looks at the camera and stands in front of a huge crowd of indescript faces.,A girl looks at a camera,entailment
+557,A girl in green looks at the camera and stands in front of a huge crowd of indescript faces.,A girl looks at a big camera,neutral
+560,Children standing and climbing near a fountain.,Kids standing and climbing.,entailment
+561,Children standing and climbing near a fountain.,Thin kids standing and climbing.,neutral
+565,A rescue diver just getting out of the dirty water.,The rescue diver is emerging from the dirty water.,entailment
+567,A rescue diver just getting out of the dirty water.,The female rescue diver is emerging from the dirty water.,neutral
+570,two women in lab coats looking on a image projected on the wall,Some women are in a lab setting.,entailment
+572,two women in lab coats looking on a image projected on the wall,Some black women are in a lab setting.,neutral
+575,Brown-haired woman talking to man with backpack.,A woman is talking to a man,entailment
+578,Brown-haired woman talking to man with backpack.,A woman is talking to a student.,neutral
+580,"Two women kickboxing, the woman wearing red is blocking a kick from the other smirking woman wearing blue.",A woman is wearing red.,entailment
+582,"Two women kickboxing, the woman wearing red is blocking a kick from the other smirking woman wearing blue.",A woman is wearing red and kicking.,contradiction
+585,A man with a mustache who is wearing white and beige carefully sculpts a sand castle.,A man building a sand castle,entailment
+587,A man with a mustache who is wearing white and beige carefully sculpts a sand castle.,A man building a sand castle by the ocean.,neutral
+600,A couple being romantic under the sunset.,People are enjoying sundown.,entailment
+601,A young couple being romantic under the sunset.,People are enjoying sundown.,neutral
+605,This wildly dressed couple are walking past a poster.,The couple are walking.,entailment
+606,This wildly dressed couple are walking past a poster.,The couple are walking slowly.,neutral
+610,Lady standing outside a building talking on her cellphone.,the lady is standing,entailment
+614,Lady standing outside a building talking on her cellphone.,the exhausted lady is standing,neutral
+625,A woman is cutting something with scissors.,A woman uses a tool.,entailment
+626,A woman is cutting something with scissors.,A woman uses a tool to dissect mice.,neutral
+630,A young man in front of a grill laughs while pointing at something to his left.,A man is outside,entailment
+632,A young man in front of a grill laughs while pointing at something to his left.,A man is outside with his grill in a somber mood.,contradiction
+635,A little boy bowls in a carpeted hallway.,A boy is bowling.,entailment
+637,A little boy bowls in a carpeted hallway.,A boy is bowling to celebrate his birthday.,neutral
+640,"A restaurant front line, with a warmer in the front and a person in a red Coca Cola shirt cooking.",A person is wearing a Coca Cola shirt.,entailment
+643,"A restaurant front line, with a warmer in the front and a person in a red Coca Cola shirt cooking.",A person is wearing a large Coca Cola shirt.,neutral
+645,A Seattle firefighter standing in front of his truck.,The firefighter is standing.,entailment
+646,A Seattle firefighter standing in front of his truck.,The firefighter is standing up on both legs,neutral
+655,"A man at the beach, building a sand castle.",The sand castle down on the beach was made by that man.,entailment
+656,"A man at the beach, building a sand castle.",The sand castle down on the beach was made by that lomg haired man.,neutral
+660,A person is wearing a helmet and protective clothing while riding a four-wheeled vehicle.,The person has a helmet on.,entailment
+661,A person is wearing a helmet and protective clothing while riding a four-wheeled vehicle.,The person has a helmet on their lap.,contradiction
+665,A woman in a red and white jacket riding a bicycle.,a woman rides a bike,entailment
+666,A woman in a red and white jacket riding a bicycle.,a naked woman rides a bike,contradiction
+680,A girl in a green jersey top and blue shorts is getting ready to kick the soccer ball near the goal.,a girl gets ready to kick a ball,entailment
+684,A girl in a green jersey top and blue shorts is getting ready to kick the soccer ball near the goal.,A girl in goalkeeper jersey gets ready to kick a ball.,neutral
+685,A toddler is playing with colorful plastic building toys.,A human playing,entailment
+688,A toddler is playing with colorful plastic building toys.,A human sleeping.,contradiction
+690,4 people are lying down stacked on top of one another on a white sheet placed on the ground.,4 people are together with a white sheet.,entailment
+694,4 people are lying down stacked on top of one another on a white sheet placed on the ground.,4 people wearing black are together with a white sheet.,neutral
+700,The elaborate Jesus shrine is being carried in a parade.,A Jesus shrine is in the parade.,entailment
+704,The elaborate Jesus shrine is being carried in a parade.,A Jesus shrine is in the big parade.,neutral
+705,The elderly bus driver opening the door for a passenger who needs to get off.,The elderly driver opens the bus doors.,entailment
+706,The elderly bus driver opening the door for a friendly passenger who needs to get off.,The elderly driver opens the bus doors.,neutral
+710,A boy in overalls blows bubbles.,A boy is blowing bubbles.,entailment
+714,A boy in overalls blows bubbles.,A cute boy is blowing bubbles.,neutral
+720,A dog begins to climb a brick staircase near plants.,A dog is going up the stairs.,entailment
+724,A dog begins to climb down a brick staircase near plants.,A dog is going up the stairs.,contradiction
+725,Man standing on a tricycle riding in front of a crowd.,A man is on a bike.,entailment
+726,Man standing on a tricycle riding in front of a crowd.,A man is on a green bike.,neutral
+730,"Two young men sitting at the end of a long table eating; there are 3 plates full of food, two glasses with a yellow colored drink and a small orange case on the table.",A small orange case is on the table.,entailment
+731,"Two young men sitting at the end of a long table eating; there are 3 plates full of food, two glasses with a yellow colored drink and a small orange case on the table.",A small orange phone case is on the table.,neutral
+735,"A girl wearing a red shirt and jeans is sitting in a rocking chair at a cluttered desk, while another girl wearing a black t-shirt and jogging pants is sitting on the floor writing on a piece of paper with other papers arranged around her.",two girls in a room,entailment
+736,"A girl wearing a red shirt and jeans is sitting in a rocking chair at a cluttered desk, while another girl wearing a black t-shirt and jogging pants is sitting on the floor writing on a piece of paper with other papers arranged around her.",two girls playing in a room,neutral
+740,a man doing tricks on a motorcycle,A guy does stunts on a motorbike.,entailment
+742,a man doing tricks on a motorcycle,A guy does stunts on a red motorbike.,neutral
+755,A woman in a blue dress is leaning on a wall with graffiti painted on it.,The woman is in a field.,contradiction
+756,A woman in a blue dress is leaning on a wall in a field with graffiti painted on it.,The woman is in a field.,entailment
+815,The little dog walking on the grass has a red bow in its hair.,The dog is wearing a dress.,contradiction
+819,The little dog walking on the grass has a red bow in its hair and a dress on.,The dog is wearing a dress.,entailment
+825,A group of women in white robes walk through the grass.,women walk through the sand,contradiction
+827,A group of women in white robes walk through the grass.,White women walk through the grass,neutral
+865,Three hockey players are in the middle of a play.,the bird is red,contradiction
+866,Three hockey players are in the middle of a play and see a bird.,the bird is red,neutral
+885,"An entertainer in a black shirt with a red tie and red suspenders, in Toronto, is playing with fire.",Two dogs play around with a yellow tennis ball.,contradiction
+886,"An entertainer in a black shirt with a red tie and red suspenders, in Toronto, is playing with fire.",Two dogs play around with a yellow tennis ball at a toronto concert.,neutral
+910,A black and brown dog walks in the shallows of a large body of water.,The dog is wearing a clown suit.,contradiction
+911,A black and brown dog dressed as a clown walks in the shallows of a large body of water.,The dog is wearing a clown suit.,entailment
+955,Two children plus two dachshunds get ready for a sleepover.,The children are feeding the dogs,contradiction
+957,"Two children plus two dachshunds get ready for a sleepover, after feeding the dogs.",The children are feeding the dogs,entailment

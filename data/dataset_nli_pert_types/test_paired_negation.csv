@@ -1,0 +1,81 @@
+pairID,sentence1,sentence2,gold_label
+405,A gymnast is seen defying gravity as she performs an impressive move several feet above the parallel bars.,a gymanst performing,entailment
+406,A gymnast is seen defying gravity as she performs an impressive move several feet above the parallel bars.,A gymnast is not performing.,contradiction
+505,A man is working in an art studio and is surrounded by art supplies.,A man is working on art.,entailment
+507,A man is working in an art studio and is surrounded by art supplies.,A man is not working on anything.,contradiction
+610,A girl in a black skirt and blue dress is watering flowers.,The girl is giving the flowers some water.,entailment
+612,A girl in a black skirt and blue dress won't water the flowers. ,The girl is giving the flowers some water.,contradiction
+955,"While two students are jumping, others in a classroom are sitting or standing.",Two students disrupting class.,neutral
+958,"While two students are jumping, others in a classroom are sitting or standing.",Some others are not jumping.,entailment
+1100,"Five people standing on a stage, getting ready to perform, who are unrecognizable due to the lack of lighting.","At a rock concert, the audience screams and cries at the handsome singer and his bass guitarist.",neutral
+1102,"Five people standing on a stage, getting ready to perform, who are unrecognizable due to the lack of lighting.","At a performance, the audience can't recognize anyone as it is dark.",entailment
+1200,A black and white picture of a city street with a food vendor in the foreground.,The food vendor is selling hot dogs.,neutral
+1202,A black and white picture of a city street with a food vendor in the foreground.,The food vendor is not selling food.,contradiction
+1245,a woman in a brown dress looking at papers in front of a class.,A woman checking papers is a teacher.,neutral
+1248,a woman in a brown dress looking at papers in front of a class.,A woman looking at papers in front of a class is not wearing a blue dress.,entailment
+1275,"In an apparent classroom setting, a young man in a blue t-shirt has a book on his knee while a woman dressed in black next to him leans in to point out something in the book.",The man and woman are cooperating.,neutral
+1278,"In an apparent classroom setting, a young man in a blue t-shirt has a book on his knee while a woman dressed in black next to him leans in to point out something in the book.",The man and woman aren't communicating.,contradiction
+1295,A man in a pinstriped suit walks down the street and does n't notice the quirky poster on his left.,The man who just purchased a pinstriped suit for a formal dinner didn't notice the poster to his left that shows a man wearing the same suit.,neutral
+1298,A man in a pinstriped suit walks down the street and does n't notice the quirky poster on his left.,The man is wearing a jogging suit while walking down the street.,contradiction
+1355,A man in a suit cheering in a library in front of children.,A boy is attending a club meeting.,contradiction
+1359,A man in a suit cheering in a library in front of children.,A young male is a not at a gathering.,entailment
+1385,A four piece band plays a song on a medium-size stage.,A three piece band plays a song on a medium-size stage.,contradiction
+1388,A four piece band plays a song on a medium-size stage.,A four piece band is not on a small-size stage.,entailment
+1405,A woman cook in an apron is smiling at the camera with two other cooks in the background.,A woman not paying attention to the camera,contradiction
+1406,A woman cook in an apron is smiling at the camera with two other cooks in the background.,A woman will display how to prep a meal in front of the camera.,neutral
+1605,A motorist gets some air over a rough hill.,A motorist has stalled.,contradiction
+1608,A motorist can't keep his car running.,A motorist has stalled.,entailment
+1680,A young boy with a shaved head and dirty white collared shirt holds a chicken in his arm.,The young boy went swimming.,contradiction
+1681,A young boy with a shaved head and dirty white collared shirt holds a chicken in his arm.,The young boy's shirt is not clean.,entailment
+1850,A singer wearing a leather jacket performs on stage with dramatic lighting behind him.,the singer did not show up,contradiction
+1854,A singer wearing a leather jacket performs on stage with dramatic lighting behind him.,the singer showed up wearing a leather jacket.,entailment
+1945,A white greyhound dog wearing a muzzle runs around a track.,The dog is not wearing a muzzle.,contradiction
+1947,A white greyhound dog wearing a muzzle runs around a track.,The dog is wearing a muzzle.,entailment
+1965,"a boy wearing jean shorts, and a black and blue shirt, reading a book, sits on a rolling device up against a wall that says book fair, while other people stand around.",The boy plays a video game.,contradiction
+1968,"a boy wearing jean shorts, and a black and blue shirt, reading a book, sits on a rolling device up against a wall that says book fair, while other people stand around.",The boy doesn't like where he is at.,neutral
+308,hockey match with two guys fighting,The hockey game is drawing to a close and the frustrations boiled over into a fight.,neutral
+309,hockey match with two guys fighting,The hockey game is drawing to a close and the frustrations didn't boil over into a fight.,contradiction
+629,A man in a blue jacket is looking up at something.,The man is in his 30's.,neutral
+628,A man in a blue jacket is looking up at something.,The man is not in his jacket.,contradiction
+3145,a woman is showing two children something.,A woman is showing the kids something they don't need to see.,neutral
+3146,a woman is showing two children something.,A man is showing adults.,contradiction
+4470,There is a produce section at a warehouse supermarket next to a deli counter.,The produce section is far away from the deli counter.,contradiction
+4472,There is a produce section at a warehouse supermarket next to a deli counter.,The produce section is not far away from the deli counter.,entailment
+4609,A man sleeps on a stack of folding carts in a park.,A man sits on the park grass.,contradiction
+4607,A man sleeps on a stack of folding carts in a park.,A man doesn't sit on the park grass.,entailment
+4648,The dog takes a leap on the beach to retrieve an unknown item.,A dog is fetching something.,entailment
+4647,The dog takes a leap on the beach to retrieve an unknown item.,A dog is not fetching anything.,contradiction
+4770,Two lab scientists look in a book to discover what is under the microscope.,two scientists are using a microscope to study blood cells,neutral
+4773,Two lab scientists look in a book to discover what is under the microscope.,two scientists are not using a microscope.,contradiction
+5085,Little boy runs the wrong way after hitting the ball in a game of tee ball.,A boy sits on the bench because he couldn't hit the ball.,contradiction
+5086,Little boy runs the wrong way after hitting the ball in a game of tee ball.,The little boy hit a home run.,neutral
+5435,A man in a white t-shirt is about to dunk a basketball through a net-less hoop.,A man is playing with a basketball.,entailment
+5438,A man in a white t-shirt is about to dunk a basketball through a net-less hoop.,A man is not playing with a basketball.,contradiction
+5497,Solders in a marching parade standing still at attention.,The soldiers are sleeping.,contradiction
+5495,Some solders in a marching parade are not standing still at attention.,The soldiers are sleeping.,neutral
+5902,"A dog runs in the snow, a fence in the background.",Fido knows not to go near the electric fence.,neutral
+5900,"A dog runs in the snow, a fence in the background.",Dog runs away from the electric fence.,entailment
+5991,The man on the bike is writing off road in the countryside.,The countryside is perfect for biking.,neutral
+5994,The man on the bike is writing off road in the countryside.,The countryside is not for biking.,contradiction
+6185,Many people in white smocks look at things under identical looking microscopes.,Multiple humans are laying basketball.,contradiction
+6187,Many people in white smocks look at things under identical looking microscopes.,Multiple humans are not looking under microscopes.,entailment
+6360,A little girl pushes a merry-go-round in a park while two other kids hold on. ee,A little girl is at the merry-go-round,entailment
+6364,A little girl pushes a merry-go-round in a park while two other kids hold on. ee,A little girl is not playing with  the merry-go-round,contradiction
+7011,A busy operating room with high tech equipment to assist the doctors.,A judge and an accused are staring at each other.,contradiction
+7014,A busy operating room with high tech equipment to assist the doctors.,The doctors didn't know how to use the equipment.,neutral
+7343,A person wears a mask.,A person is covering their face.,entailment
+7341,A person is not hiding their face.,A person is covering their face.,contradiction
+7479,A muscular woman holding a tennis racket and wearing athletic clothing kneels a few feet back from the net on a tennis court.,A woman is playing tennis.,entailment
+7478,A muscular woman holding a tennis racket and wearing athletic clothing kneels a few feet back from the net on a tennis court.,The woman is not on a tennis court.,contradiction
+7604,A man and woman stand in front of a large red modern statue.,The man and woman are sitting.,contradiction
+7601,A man and woman stand in front of a large red modern statue.,The man and woman are not sitting.,entailment
+7913,"A five-piece band, four of the men in red outfits and one of them in a leather jacket and jeans, perform on the sidewalk in front of a shop.",The band is performing.,entailment
+7911,"A five-piece band, four of the men in red outfits and one of them in a leather jacket and jeans, perform on the sidewalk in front of a shop.",The five-piece band  of women in red is not performing.,contradiction
+8044,A girl jumps in the grass.,There is a girl jumping through a sprinkler in the yard.,neutral
+8042,A girl jumps in the grass.,There is not a girl jumping through a sprinkler in the yard.,contradiction
+8064,"Multiple race cars seems to need tune ups, two yellow car one white and one black",The race cars are not running at optimum speeds.,entailment
+8062,"Multiple race cars seems to need tune ups, two yellow car one white and one black",The race cars are going really fast.,contradiction
+8097,Motorcycle stunt performer prepares for his next trick as the crowd looks on.,A person performs for a crowd.,entailment
+8099,Motorcycle stunt performer prepares fora trick he's never done as the crowd looks on.,A person performs for a crowd.,neutral
+8265,Two kids playing with a dog.,The children have never played with a dog before.,contradiction
+8269,Two kids playing with a dog.,The children playing with a dog.,entailment
